@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\FloatingCompar\FloatingCompar\bin\Debug\netcoreapp3.1\FloatingCompar.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\FloatingCompar\FloatingCompar\bin\Debug\netcoreapp3.1\FloatingCompar.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\FloatingCompar\FloatingCompar\bin\Debug\netcoreapp3.1\FloatingCompar.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\FloatingCompar\FloatingCompar\bin\Debug\netcoreapp3.1\FloatingCompar.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\FloatingCompar\FloatingCompar\bin\Debug\netcoreapp3.1\FloatingCompar.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\FloatingCompar\FloatingCompar\bin\Debug\netcoreapp3.1\FloatingCompar.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\FloatingCompar\FloatingCompar\obj\Debug\netcoreapp3.1\FloatingCompar.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\FloatingCompar\FloatingCompar\obj\Debug\netcoreapp3.1\FloatingCompar.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\FloatingCompar\FloatingCompar\obj\Debug\netcoreapp3.1\FloatingCompar.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\FloatingCompar\FloatingCompar\obj\Debug\netcoreapp3.1\FloatingCompar.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\FloatingCompar\FloatingCompar\obj\Debug\netcoreapp3.1\FloatingCompar.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\FloatingCompar\FloatingCompar\obj\Debug\netcoreapp3.1\FloatingCompar.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\FloatingCompar\FloatingCompar\obj\Debug\netcoreapp3.1\FloatingCompar.genruntimeconfig.cache

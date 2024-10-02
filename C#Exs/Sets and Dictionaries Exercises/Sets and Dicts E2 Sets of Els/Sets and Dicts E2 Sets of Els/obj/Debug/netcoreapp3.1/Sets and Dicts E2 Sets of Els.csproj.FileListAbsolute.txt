@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E2 Sets of Els\Sets and Dicts E2 Sets of Els\bin\Debug\netcoreapp3.1\Sets and Dicts E2 Sets of Els.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E2 Sets of Els\Sets and Dicts E2 Sets of Els\bin\Debug\netcoreapp3.1\Sets and Dicts E2 Sets of Els.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E2 Sets of Els\Sets and Dicts E2 Sets of Els\bin\Debug\netcoreapp3.1\Sets and Dicts E2 Sets of Els.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E2 Sets of Els\Sets and Dicts E2 Sets of Els\bin\Debug\netcoreapp3.1\Sets and Dicts E2 Sets of Els.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E2 Sets of Els\Sets and Dicts E2 Sets of Els\bin\Debug\netcoreapp3.1\Sets and Dicts E2 Sets of Els.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E2 Sets of Els\Sets and Dicts E2 Sets of Els\bin\Debug\netcoreapp3.1\Sets and Dicts E2 Sets of Els.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E2 Sets of Els\Sets and Dicts E2 Sets of Els\obj\Debug\netcoreapp3.1\Sets and Dicts E2 Sets of Els.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E2 Sets of Els\Sets and Dicts E2 Sets of Els\obj\Debug\netcoreapp3.1\Sets and Dicts E2 Sets of Els.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E2 Sets of Els\Sets and Dicts E2 Sets of Els\obj\Debug\netcoreapp3.1\Sets and Dicts E2 Sets of Els.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E2 Sets of Els\Sets and Dicts E2 Sets of Els\obj\Debug\netcoreapp3.1\Sets and Dicts E2 Sets of Els.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E2 Sets of Els\Sets and Dicts E2 Sets of Els\obj\Debug\netcoreapp3.1\Sets and Dicts E2 Sets of Els.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E2 Sets of Els\Sets and Dicts E2 Sets of Els\obj\Debug\netcoreapp3.1\Sets and Dicts E2 Sets of Els.genruntimeconfig.cache

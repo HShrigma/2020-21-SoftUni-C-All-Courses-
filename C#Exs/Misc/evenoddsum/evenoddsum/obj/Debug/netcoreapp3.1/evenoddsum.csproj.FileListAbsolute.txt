@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\evenoddsum\evenoddsum\bin\Debug\netcoreapp3.1\evenoddsum.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\evenoddsum\evenoddsum\bin\Debug\netcoreapp3.1\evenoddsum.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\evenoddsum\evenoddsum\bin\Debug\netcoreapp3.1\evenoddsum.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\evenoddsum\evenoddsum\bin\Debug\netcoreapp3.1\evenoddsum.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\evenoddsum\evenoddsum\bin\Debug\netcoreapp3.1\evenoddsum.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\evenoddsum\evenoddsum\bin\Debug\netcoreapp3.1\evenoddsum.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\evenoddsum\evenoddsum\obj\Debug\netcoreapp3.1\evenoddsum.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\evenoddsum\evenoddsum\obj\Debug\netcoreapp3.1\evenoddsum.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\evenoddsum\evenoddsum\obj\Debug\netcoreapp3.1\evenoddsum.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\evenoddsum\evenoddsum\obj\Debug\netcoreapp3.1\evenoddsum.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\evenoddsum\evenoddsum\obj\Debug\netcoreapp3.1\evenoddsum.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\evenoddsum\evenoddsum\obj\Debug\netcoreapp3.1\evenoddsum.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\evenoddsum\evenoddsum\obj\Debug\netcoreapp3.1\evenoddsum.genruntimeconfig.cache

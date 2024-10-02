@@ -1,0 +1,4 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\OOP Exam\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.AssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\OOP Exam\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\OOP Exam\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\OOP Exam\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.CoreCompileInputs.cache

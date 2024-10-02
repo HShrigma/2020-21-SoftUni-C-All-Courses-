@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 06 Store Boxes\Objects and Classes Lab 06 Store Boxes\bin\Debug\netcoreapp3.1\Objects and Classes Lab 06 Store Boxes.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 06 Store Boxes\Objects and Classes Lab 06 Store Boxes\bin\Debug\netcoreapp3.1\Objects and Classes Lab 06 Store Boxes.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 06 Store Boxes\Objects and Classes Lab 06 Store Boxes\bin\Debug\netcoreapp3.1\Objects and Classes Lab 06 Store Boxes.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 06 Store Boxes\Objects and Classes Lab 06 Store Boxes\bin\Debug\netcoreapp3.1\Objects and Classes Lab 06 Store Boxes.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 06 Store Boxes\Objects and Classes Lab 06 Store Boxes\bin\Debug\netcoreapp3.1\Objects and Classes Lab 06 Store Boxes.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 06 Store Boxes\Objects and Classes Lab 06 Store Boxes\bin\Debug\netcoreapp3.1\Objects and Classes Lab 06 Store Boxes.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 06 Store Boxes\Objects and Classes Lab 06 Store Boxes\obj\Debug\netcoreapp3.1\Objects and Classes Lab 06 Store Boxes.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 06 Store Boxes\Objects and Classes Lab 06 Store Boxes\obj\Debug\netcoreapp3.1\Objects and Classes Lab 06 Store Boxes.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 06 Store Boxes\Objects and Classes Lab 06 Store Boxes\obj\Debug\netcoreapp3.1\Objects and Classes Lab 06 Store Boxes.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 06 Store Boxes\Objects and Classes Lab 06 Store Boxes\obj\Debug\netcoreapp3.1\Objects and Classes Lab 06 Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 06 Store Boxes\Objects and Classes Lab 06 Store Boxes\obj\Debug\netcoreapp3.1\Objects and Classes Lab 06 Store Boxes.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 06 Store Boxes\Objects and Classes Lab 06 Store Boxes\obj\Debug\netcoreapp3.1\Objects and Classes Lab 06 Store Boxes.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 06 Store Boxes\Objects and Classes Lab 06 Store Boxes\obj\Debug\netcoreapp3.1\Objects and Classes Lab 06 Store Boxes.genruntimeconfig.cache

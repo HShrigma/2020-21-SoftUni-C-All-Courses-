@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 4 cities,conts,countr\Sets and Dicts 4 cities,conts,countr\bin\Debug\netcoreapp3.1\Sets and Dicts 4 cities,conts,countr.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 4 cities,conts,countr\Sets and Dicts 4 cities,conts,countr\bin\Debug\netcoreapp3.1\Sets and Dicts 4 cities,conts,countr.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 4 cities,conts,countr\Sets and Dicts 4 cities,conts,countr\bin\Debug\netcoreapp3.1\Sets and Dicts 4 cities,conts,countr.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 4 cities,conts,countr\Sets and Dicts 4 cities,conts,countr\bin\Debug\netcoreapp3.1\Sets and Dicts 4 cities,conts,countr.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 4 cities,conts,countr\Sets and Dicts 4 cities,conts,countr\bin\Debug\netcoreapp3.1\Sets and Dicts 4 cities,conts,countr.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 4 cities,conts,countr\Sets and Dicts 4 cities,conts,countr\bin\Debug\netcoreapp3.1\Sets and Dicts 4 cities,conts,countr.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 4 cities,conts,countr\Sets and Dicts 4 cities,conts,countr\obj\Debug\netcoreapp3.1\Sets and Dicts 4 cities,conts,countr.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 4 cities,conts,countr\Sets and Dicts 4 cities,conts,countr\obj\Debug\netcoreapp3.1\Sets and Dicts 4 cities,conts,countr.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 4 cities,conts,countr\Sets and Dicts 4 cities,conts,countr\obj\Debug\netcoreapp3.1\Sets and Dicts 4 cities,conts,countr.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 4 cities,conts,countr\Sets and Dicts 4 cities,conts,countr\obj\Debug\netcoreapp3.1\Sets and Dicts 4 cities,conts,countr.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 4 cities,conts,countr\Sets and Dicts 4 cities,conts,countr\obj\Debug\netcoreapp3.1\Sets and Dicts 4 cities,conts,countr.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 4 cities,conts,countr\Sets and Dicts 4 cities,conts,countr\obj\Debug\netcoreapp3.1\Sets and Dicts 4 cities,conts,countr.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 4 cities,conts,countr\Sets and Dicts 4 cities,conts,countr\obj\Debug\netcoreapp3.1\Sets and Dicts 4 cities,conts,countr.genruntimeconfig.cache

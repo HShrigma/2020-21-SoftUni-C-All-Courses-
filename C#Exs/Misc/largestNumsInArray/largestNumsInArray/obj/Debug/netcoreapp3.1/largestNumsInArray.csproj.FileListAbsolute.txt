@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\largestNumsInArray\largestNumsInArray\bin\Debug\netcoreapp3.1\largestNumsInArray.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\largestNumsInArray\largestNumsInArray\bin\Debug\netcoreapp3.1\largestNumsInArray.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\largestNumsInArray\largestNumsInArray\bin\Debug\netcoreapp3.1\largestNumsInArray.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\largestNumsInArray\largestNumsInArray\bin\Debug\netcoreapp3.1\largestNumsInArray.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\largestNumsInArray\largestNumsInArray\bin\Debug\netcoreapp3.1\largestNumsInArray.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\largestNumsInArray\largestNumsInArray\bin\Debug\netcoreapp3.1\largestNumsInArray.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\largestNumsInArray\largestNumsInArray\obj\Debug\netcoreapp3.1\largestNumsInArray.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\largestNumsInArray\largestNumsInArray\obj\Debug\netcoreapp3.1\largestNumsInArray.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\largestNumsInArray\largestNumsInArray\obj\Debug\netcoreapp3.1\largestNumsInArray.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\largestNumsInArray\largestNumsInArray\obj\Debug\netcoreapp3.1\largestNumsInArray.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\largestNumsInArray\largestNumsInArray\obj\Debug\netcoreapp3.1\largestNumsInArray.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\largestNumsInArray\largestNumsInArray\obj\Debug\netcoreapp3.1\largestNumsInArray.genruntimeconfig.cache

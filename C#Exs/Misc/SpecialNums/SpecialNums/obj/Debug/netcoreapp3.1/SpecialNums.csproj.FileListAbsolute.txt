@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\SpecialNums\SpecialNums\bin\Debug\netcoreapp3.1\SpecialNums.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\SpecialNums\SpecialNums\bin\Debug\netcoreapp3.1\SpecialNums.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\SpecialNums\SpecialNums\bin\Debug\netcoreapp3.1\SpecialNums.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\SpecialNums\SpecialNums\bin\Debug\netcoreapp3.1\SpecialNums.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\SpecialNums\SpecialNums\bin\Debug\netcoreapp3.1\SpecialNums.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\SpecialNums\SpecialNums\bin\Debug\netcoreapp3.1\SpecialNums.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\SpecialNums\SpecialNums\obj\Debug\netcoreapp3.1\SpecialNums.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\SpecialNums\SpecialNums\obj\Debug\netcoreapp3.1\SpecialNums.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\SpecialNums\SpecialNums\obj\Debug\netcoreapp3.1\SpecialNums.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\SpecialNums\SpecialNums\obj\Debug\netcoreapp3.1\SpecialNums.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\SpecialNums\SpecialNums\obj\Debug\netcoreapp3.1\SpecialNums.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\SpecialNums\SpecialNums\obj\Debug\netcoreapp3.1\SpecialNums.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\SpecialNums\SpecialNums\obj\Debug\netcoreapp3.1\SpecialNums.genruntimeconfig.cache

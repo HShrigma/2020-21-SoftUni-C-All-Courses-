@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E2  2x2\Multidimensional Arrs E2  2x2\bin\Debug\netcoreapp3.1\Multidimensional Arrs E2  2x2.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E2  2x2\Multidimensional Arrs E2  2x2\bin\Debug\netcoreapp3.1\Multidimensional Arrs E2  2x2.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E2  2x2\Multidimensional Arrs E2  2x2\bin\Debug\netcoreapp3.1\Multidimensional Arrs E2  2x2.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E2  2x2\Multidimensional Arrs E2  2x2\bin\Debug\netcoreapp3.1\Multidimensional Arrs E2  2x2.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E2  2x2\Multidimensional Arrs E2  2x2\bin\Debug\netcoreapp3.1\Multidimensional Arrs E2  2x2.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E2  2x2\Multidimensional Arrs E2  2x2\bin\Debug\netcoreapp3.1\Multidimensional Arrs E2  2x2.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E2  2x2\Multidimensional Arrs E2  2x2\obj\Debug\netcoreapp3.1\Multidimensional Arrs E2  2x2.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E2  2x2\Multidimensional Arrs E2  2x2\obj\Debug\netcoreapp3.1\Multidimensional Arrs E2  2x2.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E2  2x2\Multidimensional Arrs E2  2x2\obj\Debug\netcoreapp3.1\Multidimensional Arrs E2  2x2.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E2  2x2\Multidimensional Arrs E2  2x2\obj\Debug\netcoreapp3.1\Multidimensional Arrs E2  2x2.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E2  2x2\Multidimensional Arrs E2  2x2\obj\Debug\netcoreapp3.1\Multidimensional Arrs E2  2x2.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E2  2x2\Multidimensional Arrs E2  2x2\obj\Debug\netcoreapp3.1\Multidimensional Arrs E2  2x2.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E2  2x2\Multidimensional Arrs E2  2x2\obj\Debug\netcoreapp3.1\Multidimensional Arrs E2  2x2.genruntimeconfig.cache

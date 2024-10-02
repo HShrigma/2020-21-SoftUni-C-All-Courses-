@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decrypter", "Decrypter\Decrypter.csproj", "{A62DAA5A-C6E1-4E6F-8999-3F5026FCB7C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A62DAA5A-C6E1-4E6F-8999-3F5026FCB7C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62DAA5A-C6E1-4E6F-8999-3F5026FCB7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62DAA5A-C6E1-4E6F-8999-3F5026FCB7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62DAA5A-C6E1-4E6F-8999-3F5026FCB7C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62FDE127-2E72-4535-A1EB-0B3AC1D2614A}
+	EndGlobalSection
+EndGlobal

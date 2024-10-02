@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Functional Programming E3 Custom Min/1.0.0": {
+        "runtime": {
+          "Functional Programming E3 Custom Min.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Functional Programming E3 Custom Min/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

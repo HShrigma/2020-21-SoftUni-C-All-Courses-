@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\CondensedArr\CondensedArr\bin\Debug\netcoreapp3.1\CondensedArr.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\CondensedArr\CondensedArr\bin\Debug\netcoreapp3.1\CondensedArr.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\CondensedArr\CondensedArr\bin\Debug\netcoreapp3.1\CondensedArr.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\CondensedArr\CondensedArr\bin\Debug\netcoreapp3.1\CondensedArr.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\CondensedArr\CondensedArr\bin\Debug\netcoreapp3.1\CondensedArr.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\CondensedArr\CondensedArr\bin\Debug\netcoreapp3.1\CondensedArr.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\CondensedArr\CondensedArr\obj\Debug\netcoreapp3.1\CondensedArr.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\CondensedArr\CondensedArr\obj\Debug\netcoreapp3.1\CondensedArr.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\CondensedArr\CondensedArr\obj\Debug\netcoreapp3.1\CondensedArr.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\CondensedArr\CondensedArr\obj\Debug\netcoreapp3.1\CondensedArr.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\CondensedArr\CondensedArr\obj\Debug\netcoreapp3.1\CondensedArr.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\CondensedArr\CondensedArr\obj\Debug\netcoreapp3.1\CondensedArr.genruntimeconfig.cache

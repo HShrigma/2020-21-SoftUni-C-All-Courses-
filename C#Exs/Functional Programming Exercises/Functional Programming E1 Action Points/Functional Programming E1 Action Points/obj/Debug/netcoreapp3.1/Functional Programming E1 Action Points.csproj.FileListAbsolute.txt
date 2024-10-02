@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E1 Action Points\Functional Programming E1 Action Points\bin\Debug\netcoreapp3.1\Functional Programming E1 Action Points.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E1 Action Points\Functional Programming E1 Action Points\bin\Debug\netcoreapp3.1\Functional Programming E1 Action Points.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E1 Action Points\Functional Programming E1 Action Points\bin\Debug\netcoreapp3.1\Functional Programming E1 Action Points.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E1 Action Points\Functional Programming E1 Action Points\bin\Debug\netcoreapp3.1\Functional Programming E1 Action Points.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E1 Action Points\Functional Programming E1 Action Points\bin\Debug\netcoreapp3.1\Functional Programming E1 Action Points.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E1 Action Points\Functional Programming E1 Action Points\bin\Debug\netcoreapp3.1\Functional Programming E1 Action Points.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E1 Action Points\Functional Programming E1 Action Points\obj\Debug\netcoreapp3.1\Functional Programming E1 Action Points.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E1 Action Points\Functional Programming E1 Action Points\obj\Debug\netcoreapp3.1\Functional Programming E1 Action Points.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E1 Action Points\Functional Programming E1 Action Points\obj\Debug\netcoreapp3.1\Functional Programming E1 Action Points.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E1 Action Points\Functional Programming E1 Action Points\obj\Debug\netcoreapp3.1\Functional Programming E1 Action Points.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E1 Action Points\Functional Programming E1 Action Points\obj\Debug\netcoreapp3.1\Functional Programming E1 Action Points.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E1 Action Points\Functional Programming E1 Action Points\obj\Debug\netcoreapp3.1\Functional Programming E1 Action Points.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E1 Action Points\Functional Programming E1 Action Points\obj\Debug\netcoreapp3.1\Functional Programming E1 Action Points.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\ArrayUniqueElements\ArrayUniqueElements\bin\Debug\netcoreapp3.1\ArrayUniqueElements.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\ArrayUniqueElements\ArrayUniqueElements\bin\Debug\netcoreapp3.1\ArrayUniqueElements.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\ArrayUniqueElements\ArrayUniqueElements\bin\Debug\netcoreapp3.1\ArrayUniqueElements.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\ArrayUniqueElements\ArrayUniqueElements\bin\Debug\netcoreapp3.1\ArrayUniqueElements.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\ArrayUniqueElements\ArrayUniqueElements\bin\Debug\netcoreapp3.1\ArrayUniqueElements.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\ArrayUniqueElements\ArrayUniqueElements\bin\Debug\netcoreapp3.1\ArrayUniqueElements.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\ArrayUniqueElements\ArrayUniqueElements\obj\Debug\netcoreapp3.1\ArrayUniqueElements.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\ArrayUniqueElements\ArrayUniqueElements\obj\Debug\netcoreapp3.1\ArrayUniqueElements.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\ArrayUniqueElements\ArrayUniqueElements\obj\Debug\netcoreapp3.1\ArrayUniqueElements.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\ArrayUniqueElements\ArrayUniqueElements\obj\Debug\netcoreapp3.1\ArrayUniqueElements.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\ArrayUniqueElements\ArrayUniqueElements\obj\Debug\netcoreapp3.1\ArrayUniqueElements.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\ArrayUniqueElements\ArrayUniqueElements\obj\Debug\netcoreapp3.1\ArrayUniqueElements.genruntimeconfig.cache

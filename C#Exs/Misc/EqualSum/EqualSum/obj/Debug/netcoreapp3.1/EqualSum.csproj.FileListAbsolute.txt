@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\EqualSum\EqualSum\bin\Debug\netcoreapp3.1\EqualSum.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\EqualSum\EqualSum\bin\Debug\netcoreapp3.1\EqualSum.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\EqualSum\EqualSum\bin\Debug\netcoreapp3.1\EqualSum.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\EqualSum\EqualSum\bin\Debug\netcoreapp3.1\EqualSum.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\EqualSum\EqualSum\bin\Debug\netcoreapp3.1\EqualSum.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\EqualSum\EqualSum\bin\Debug\netcoreapp3.1\EqualSum.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\EqualSum\EqualSum\obj\Debug\netcoreapp3.1\EqualSum.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\EqualSum\EqualSum\obj\Debug\netcoreapp3.1\EqualSum.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\EqualSum\EqualSum\obj\Debug\netcoreapp3.1\EqualSum.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\EqualSum\EqualSum\obj\Debug\netcoreapp3.1\EqualSum.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\EqualSum\EqualSum\obj\Debug\netcoreapp3.1\EqualSum.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\EqualSum\EqualSum\obj\Debug\netcoreapp3.1\EqualSum.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\EqualSum\EqualSum\obj\Debug\netcoreapp3.1\EqualSum.genruntimeconfig.cache

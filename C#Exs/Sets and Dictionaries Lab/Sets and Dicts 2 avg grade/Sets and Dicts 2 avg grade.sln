@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sets and Dicts 2 avg grade", "Sets and Dicts 2 avg grade\Sets and Dicts 2 avg grade.csproj", "{38A4F061-2C6A-45AA-AF17-7E7A005896BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38A4F061-2C6A-45AA-AF17-7E7A005896BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A4F061-2C6A-45AA-AF17-7E7A005896BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A4F061-2C6A-45AA-AF17-7E7A005896BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A4F061-2C6A-45AA-AF17-7E7A005896BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76F030E9-B9EE-4A88-8832-45E19892CB44}
+	EndGlobalSection
+EndGlobal

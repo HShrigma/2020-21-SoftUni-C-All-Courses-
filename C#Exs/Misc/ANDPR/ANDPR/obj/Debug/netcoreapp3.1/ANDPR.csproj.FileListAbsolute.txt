@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\ANDPR\ANDPR\bin\Debug\netcoreapp3.1\ANDPR.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\ANDPR\ANDPR\bin\Debug\netcoreapp3.1\ANDPR.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\ANDPR\ANDPR\bin\Debug\netcoreapp3.1\ANDPR.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\ANDPR\ANDPR\bin\Debug\netcoreapp3.1\ANDPR.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\ANDPR\ANDPR\bin\Debug\netcoreapp3.1\ANDPR.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\ANDPR\ANDPR\bin\Debug\netcoreapp3.1\ANDPR.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\ANDPR\ANDPR\obj\Debug\netcoreapp3.1\ANDPR.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\ANDPR\ANDPR\obj\Debug\netcoreapp3.1\ANDPR.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\ANDPR\ANDPR\obj\Debug\netcoreapp3.1\ANDPR.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\ANDPR\ANDPR\obj\Debug\netcoreapp3.1\ANDPR.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\ANDPR\ANDPR\obj\Debug\netcoreapp3.1\ANDPR.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\ANDPR\ANDPR\obj\Debug\netcoreapp3.1\ANDPR.genruntimeconfig.cache

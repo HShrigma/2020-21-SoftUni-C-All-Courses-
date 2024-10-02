@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Moon\Moon\bin\Debug\netcoreapp3.1\Moon.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Moon\Moon\bin\Debug\netcoreapp3.1\Moon.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Moon\Moon\bin\Debug\netcoreapp3.1\Moon.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Moon\Moon\bin\Debug\netcoreapp3.1\Moon.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Moon\Moon\bin\Debug\netcoreapp3.1\Moon.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Moon\Moon\bin\Debug\netcoreapp3.1\Moon.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Moon\Moon\obj\Debug\netcoreapp3.1\Moon.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Moon\Moon\obj\Debug\netcoreapp3.1\Moon.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Moon\Moon\obj\Debug\netcoreapp3.1\Moon.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Moon\Moon\obj\Debug\netcoreapp3.1\Moon.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Moon\Moon\obj\Debug\netcoreapp3.1\Moon.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Moon\Moon\obj\Debug\netcoreapp3.1\Moon.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Moon\Moon\obj\Debug\netcoreapp3.1\Moon.genruntimeconfig.cache

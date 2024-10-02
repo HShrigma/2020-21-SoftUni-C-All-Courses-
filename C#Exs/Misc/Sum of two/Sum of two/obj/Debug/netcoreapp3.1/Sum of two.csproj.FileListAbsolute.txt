@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Sum of two\Sum of two\bin\Debug\netcoreapp3.1\Sum of two.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Sum of two\Sum of two\bin\Debug\netcoreapp3.1\Sum of two.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Sum of two\Sum of two\bin\Debug\netcoreapp3.1\Sum of two.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Sum of two\Sum of two\bin\Debug\netcoreapp3.1\Sum of two.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Sum of two\Sum of two\bin\Debug\netcoreapp3.1\Sum of two.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Sum of two\Sum of two\bin\Debug\netcoreapp3.1\Sum of two.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Sum of two\Sum of two\obj\Debug\netcoreapp3.1\Sum of two.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Sum of two\Sum of two\obj\Debug\netcoreapp3.1\Sum of two.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Sum of two\Sum of two\obj\Debug\netcoreapp3.1\Sum of two.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Sum of two\Sum of two\obj\Debug\netcoreapp3.1\Sum of two.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Sum of two\Sum of two\obj\Debug\netcoreapp3.1\Sum of two.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Sum of two\Sum of two\obj\Debug\netcoreapp3.1\Sum of two.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Sum of two\Sum of two\obj\Debug\netcoreapp3.1\Sum of two.genruntimeconfig.cache

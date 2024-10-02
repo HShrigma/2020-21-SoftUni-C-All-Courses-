@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 02 Vowel Count\Methods Exercises 02 Vowel Count\bin\Debug\netcoreapp3.1\Methods Exercises 02 Vowel Count.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 02 Vowel Count\Methods Exercises 02 Vowel Count\bin\Debug\netcoreapp3.1\Methods Exercises 02 Vowel Count.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 02 Vowel Count\Methods Exercises 02 Vowel Count\bin\Debug\netcoreapp3.1\Methods Exercises 02 Vowel Count.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 02 Vowel Count\Methods Exercises 02 Vowel Count\bin\Debug\netcoreapp3.1\Methods Exercises 02 Vowel Count.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 02 Vowel Count\Methods Exercises 02 Vowel Count\bin\Debug\netcoreapp3.1\Methods Exercises 02 Vowel Count.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 02 Vowel Count\Methods Exercises 02 Vowel Count\bin\Debug\netcoreapp3.1\Methods Exercises 02 Vowel Count.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 02 Vowel Count\Methods Exercises 02 Vowel Count\obj\Debug\netcoreapp3.1\Methods Exercises 02 Vowel Count.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 02 Vowel Count\Methods Exercises 02 Vowel Count\obj\Debug\netcoreapp3.1\Methods Exercises 02 Vowel Count.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 02 Vowel Count\Methods Exercises 02 Vowel Count\obj\Debug\netcoreapp3.1\Methods Exercises 02 Vowel Count.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 02 Vowel Count\Methods Exercises 02 Vowel Count\obj\Debug\netcoreapp3.1\Methods Exercises 02 Vowel Count.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 02 Vowel Count\Methods Exercises 02 Vowel Count\obj\Debug\netcoreapp3.1\Methods Exercises 02 Vowel Count.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 02 Vowel Count\Methods Exercises 02 Vowel Count\obj\Debug\netcoreapp3.1\Methods Exercises 02 Vowel Count.genruntimeconfig.cache

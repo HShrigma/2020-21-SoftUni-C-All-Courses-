@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E11 reservation\Functional Programming E11 reservation\bin\Debug\netcoreapp3.1\Functional Programming E11 reservation.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E11 reservation\Functional Programming E11 reservation\bin\Debug\netcoreapp3.1\Functional Programming E11 reservation.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E11 reservation\Functional Programming E11 reservation\bin\Debug\netcoreapp3.1\Functional Programming E11 reservation.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E11 reservation\Functional Programming E11 reservation\bin\Debug\netcoreapp3.1\Functional Programming E11 reservation.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E11 reservation\Functional Programming E11 reservation\bin\Debug\netcoreapp3.1\Functional Programming E11 reservation.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E11 reservation\Functional Programming E11 reservation\bin\Debug\netcoreapp3.1\Functional Programming E11 reservation.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E11 reservation\Functional Programming E11 reservation\obj\Debug\netcoreapp3.1\Functional Programming E11 reservation.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E11 reservation\Functional Programming E11 reservation\obj\Debug\netcoreapp3.1\Functional Programming E11 reservation.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E11 reservation\Functional Programming E11 reservation\obj\Debug\netcoreapp3.1\Functional Programming E11 reservation.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E11 reservation\Functional Programming E11 reservation\obj\Debug\netcoreapp3.1\Functional Programming E11 reservation.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E11 reservation\Functional Programming E11 reservation\obj\Debug\netcoreapp3.1\Functional Programming E11 reservation.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E11 reservation\Functional Programming E11 reservation\obj\Debug\netcoreapp3.1\Functional Programming E11 reservation.genruntimeconfig.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E11 reservation\Functional Programming E11 reservation\obj\Debug\netcoreapp3.1\Functional Programming E11 reservation.csprojAssemblyReference.cache

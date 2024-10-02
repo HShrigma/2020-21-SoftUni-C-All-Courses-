@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 04 Students1\Objects and Classes Lab 04 Students1\bin\Debug\netcoreapp3.1\Objects and Classes Lab 04 Students1.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 04 Students1\Objects and Classes Lab 04 Students1\bin\Debug\netcoreapp3.1\Objects and Classes Lab 04 Students1.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 04 Students1\Objects and Classes Lab 04 Students1\bin\Debug\netcoreapp3.1\Objects and Classes Lab 04 Students1.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 04 Students1\Objects and Classes Lab 04 Students1\bin\Debug\netcoreapp3.1\Objects and Classes Lab 04 Students1.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 04 Students1\Objects and Classes Lab 04 Students1\bin\Debug\netcoreapp3.1\Objects and Classes Lab 04 Students1.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 04 Students1\Objects and Classes Lab 04 Students1\bin\Debug\netcoreapp3.1\Objects and Classes Lab 04 Students1.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 04 Students1\Objects and Classes Lab 04 Students1\obj\Debug\netcoreapp3.1\Objects and Classes Lab 04 Students1.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 04 Students1\Objects and Classes Lab 04 Students1\obj\Debug\netcoreapp3.1\Objects and Classes Lab 04 Students1.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 04 Students1\Objects and Classes Lab 04 Students1\obj\Debug\netcoreapp3.1\Objects and Classes Lab 04 Students1.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 04 Students1\Objects and Classes Lab 04 Students1\obj\Debug\netcoreapp3.1\Objects and Classes Lab 04 Students1.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 04 Students1\Objects and Classes Lab 04 Students1\obj\Debug\netcoreapp3.1\Objects and Classes Lab 04 Students1.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 04 Students1\Objects and Classes Lab 04 Students1\obj\Debug\netcoreapp3.1\Objects and Classes Lab 04 Students1.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 04 Students1\Objects and Classes Lab 04 Students1\obj\Debug\netcoreapp3.1\Objects and Classes Lab 04 Students1.genruntimeconfig.cache

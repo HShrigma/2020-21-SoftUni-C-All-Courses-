@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 02 Change List\Lists Exercise 02 Change List\bin\Debug\netcoreapp3.1\Lists Exercise 02 Change List.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 02 Change List\Lists Exercise 02 Change List\bin\Debug\netcoreapp3.1\Lists Exercise 02 Change List.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 02 Change List\Lists Exercise 02 Change List\bin\Debug\netcoreapp3.1\Lists Exercise 02 Change List.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 02 Change List\Lists Exercise 02 Change List\bin\Debug\netcoreapp3.1\Lists Exercise 02 Change List.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 02 Change List\Lists Exercise 02 Change List\bin\Debug\netcoreapp3.1\Lists Exercise 02 Change List.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 02 Change List\Lists Exercise 02 Change List\bin\Debug\netcoreapp3.1\Lists Exercise 02 Change List.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 02 Change List\Lists Exercise 02 Change List\obj\Debug\netcoreapp3.1\Lists Exercise 02 Change List.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 02 Change List\Lists Exercise 02 Change List\obj\Debug\netcoreapp3.1\Lists Exercise 02 Change List.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 02 Change List\Lists Exercise 02 Change List\obj\Debug\netcoreapp3.1\Lists Exercise 02 Change List.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 02 Change List\Lists Exercise 02 Change List\obj\Debug\netcoreapp3.1\Lists Exercise 02 Change List.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 02 Change List\Lists Exercise 02 Change List\obj\Debug\netcoreapp3.1\Lists Exercise 02 Change List.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 02 Change List\Lists Exercise 02 Change List\obj\Debug\netcoreapp3.1\Lists Exercise 02 Change List.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 02 Change List\Lists Exercise 02 Change List\obj\Debug\netcoreapp3.1\Lists Exercise 02 Change List.genruntimeconfig.cache

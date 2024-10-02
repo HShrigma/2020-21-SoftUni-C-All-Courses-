@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Christmas Gifts\Christmas Gifts\bin\Debug\netcoreapp3.1\Christmas Gifts.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Christmas Gifts\Christmas Gifts\bin\Debug\netcoreapp3.1\Christmas Gifts.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Christmas Gifts\Christmas Gifts\bin\Debug\netcoreapp3.1\Christmas Gifts.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Christmas Gifts\Christmas Gifts\bin\Debug\netcoreapp3.1\Christmas Gifts.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Christmas Gifts\Christmas Gifts\bin\Debug\netcoreapp3.1\Christmas Gifts.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Christmas Gifts\Christmas Gifts\bin\Debug\netcoreapp3.1\Christmas Gifts.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Christmas Gifts\Christmas Gifts\obj\Debug\netcoreapp3.1\Christmas Gifts.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Christmas Gifts\Christmas Gifts\obj\Debug\netcoreapp3.1\Christmas Gifts.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Christmas Gifts\Christmas Gifts\obj\Debug\netcoreapp3.1\Christmas Gifts.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Christmas Gifts\Christmas Gifts\obj\Debug\netcoreapp3.1\Christmas Gifts.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Christmas Gifts\Christmas Gifts\obj\Debug\netcoreapp3.1\Christmas Gifts.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Christmas Gifts\Christmas Gifts\obj\Debug\netcoreapp3.1\Christmas Gifts.genruntimeconfig.cache

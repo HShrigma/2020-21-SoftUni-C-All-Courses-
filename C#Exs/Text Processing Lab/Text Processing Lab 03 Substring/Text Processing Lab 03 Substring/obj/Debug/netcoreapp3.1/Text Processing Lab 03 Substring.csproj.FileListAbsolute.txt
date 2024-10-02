@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 03 Substring\Text Processing Lab 03 Substring\bin\Debug\netcoreapp3.1\Text Processing Lab 03 Substring.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 03 Substring\Text Processing Lab 03 Substring\bin\Debug\netcoreapp3.1\Text Processing Lab 03 Substring.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 03 Substring\Text Processing Lab 03 Substring\bin\Debug\netcoreapp3.1\Text Processing Lab 03 Substring.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 03 Substring\Text Processing Lab 03 Substring\bin\Debug\netcoreapp3.1\Text Processing Lab 03 Substring.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 03 Substring\Text Processing Lab 03 Substring\bin\Debug\netcoreapp3.1\Text Processing Lab 03 Substring.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 03 Substring\Text Processing Lab 03 Substring\bin\Debug\netcoreapp3.1\Text Processing Lab 03 Substring.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 03 Substring\Text Processing Lab 03 Substring\obj\Debug\netcoreapp3.1\Text Processing Lab 03 Substring.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 03 Substring\Text Processing Lab 03 Substring\obj\Debug\netcoreapp3.1\Text Processing Lab 03 Substring.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 03 Substring\Text Processing Lab 03 Substring\obj\Debug\netcoreapp3.1\Text Processing Lab 03 Substring.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 03 Substring\Text Processing Lab 03 Substring\obj\Debug\netcoreapp3.1\Text Processing Lab 03 Substring.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 03 Substring\Text Processing Lab 03 Substring\obj\Debug\netcoreapp3.1\Text Processing Lab 03 Substring.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 03 Substring\Text Processing Lab 03 Substring\obj\Debug\netcoreapp3.1\Text Processing Lab 03 Substring.genruntimeconfig.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 03 Substring\Text Processing Lab 03 Substring\obj\Debug\netcoreapp3.1\Text Processing Lab 03 Substring.csprojAssemblyReference.cache

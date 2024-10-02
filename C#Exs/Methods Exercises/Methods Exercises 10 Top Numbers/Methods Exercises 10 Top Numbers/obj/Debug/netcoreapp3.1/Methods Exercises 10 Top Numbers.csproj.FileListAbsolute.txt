@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 10 Top Numbers\Methods Exercises 10 Top Numbers\bin\Debug\netcoreapp3.1\Methods Exercises 10 Top Numbers.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 10 Top Numbers\Methods Exercises 10 Top Numbers\bin\Debug\netcoreapp3.1\Methods Exercises 10 Top Numbers.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 10 Top Numbers\Methods Exercises 10 Top Numbers\bin\Debug\netcoreapp3.1\Methods Exercises 10 Top Numbers.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 10 Top Numbers\Methods Exercises 10 Top Numbers\bin\Debug\netcoreapp3.1\Methods Exercises 10 Top Numbers.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 10 Top Numbers\Methods Exercises 10 Top Numbers\bin\Debug\netcoreapp3.1\Methods Exercises 10 Top Numbers.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 10 Top Numbers\Methods Exercises 10 Top Numbers\bin\Debug\netcoreapp3.1\Methods Exercises 10 Top Numbers.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 10 Top Numbers\Methods Exercises 10 Top Numbers\obj\Debug\netcoreapp3.1\Methods Exercises 10 Top Numbers.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 10 Top Numbers\Methods Exercises 10 Top Numbers\obj\Debug\netcoreapp3.1\Methods Exercises 10 Top Numbers.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 10 Top Numbers\Methods Exercises 10 Top Numbers\obj\Debug\netcoreapp3.1\Methods Exercises 10 Top Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 10 Top Numbers\Methods Exercises 10 Top Numbers\obj\Debug\netcoreapp3.1\Methods Exercises 10 Top Numbers.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 10 Top Numbers\Methods Exercises 10 Top Numbers\obj\Debug\netcoreapp3.1\Methods Exercises 10 Top Numbers.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 10 Top Numbers\Methods Exercises 10 Top Numbers\obj\Debug\netcoreapp3.1\Methods Exercises 10 Top Numbers.genruntimeconfig.cache

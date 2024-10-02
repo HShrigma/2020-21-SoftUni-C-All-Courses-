@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 05 Remove Negatives and Reverse\Lists Lab 05 Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\Lists Lab 05 Remove Negatives and Reverse.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 05 Remove Negatives and Reverse\Lists Lab 05 Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\Lists Lab 05 Remove Negatives and Reverse.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 05 Remove Negatives and Reverse\Lists Lab 05 Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\Lists Lab 05 Remove Negatives and Reverse.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 05 Remove Negatives and Reverse\Lists Lab 05 Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\Lists Lab 05 Remove Negatives and Reverse.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 05 Remove Negatives and Reverse\Lists Lab 05 Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\Lists Lab 05 Remove Negatives and Reverse.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 05 Remove Negatives and Reverse\Lists Lab 05 Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\Lists Lab 05 Remove Negatives and Reverse.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 05 Remove Negatives and Reverse\Lists Lab 05 Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\Lists Lab 05 Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 05 Remove Negatives and Reverse\Lists Lab 05 Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\Lists Lab 05 Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 05 Remove Negatives and Reverse\Lists Lab 05 Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\Lists Lab 05 Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 05 Remove Negatives and Reverse\Lists Lab 05 Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\Lists Lab 05 Remove Negatives and Reverse.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 05 Remove Negatives and Reverse\Lists Lab 05 Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\Lists Lab 05 Remove Negatives and Reverse.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 05 Remove Negatives and Reverse\Lists Lab 05 Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\Lists Lab 05 Remove Negatives and Reverse.genruntimeconfig.cache

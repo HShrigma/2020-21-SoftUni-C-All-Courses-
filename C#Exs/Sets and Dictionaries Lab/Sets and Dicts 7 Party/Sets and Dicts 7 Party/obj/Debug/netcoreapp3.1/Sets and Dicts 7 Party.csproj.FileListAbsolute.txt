@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 7 Party\Sets and Dicts 7 Party\bin\Debug\netcoreapp3.1\Sets and Dicts 7 Party.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 7 Party\Sets and Dicts 7 Party\bin\Debug\netcoreapp3.1\Sets and Dicts 7 Party.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 7 Party\Sets and Dicts 7 Party\bin\Debug\netcoreapp3.1\Sets and Dicts 7 Party.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 7 Party\Sets and Dicts 7 Party\bin\Debug\netcoreapp3.1\Sets and Dicts 7 Party.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 7 Party\Sets and Dicts 7 Party\bin\Debug\netcoreapp3.1\Sets and Dicts 7 Party.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 7 Party\Sets and Dicts 7 Party\bin\Debug\netcoreapp3.1\Sets and Dicts 7 Party.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 7 Party\Sets and Dicts 7 Party\obj\Debug\netcoreapp3.1\Sets and Dicts 7 Party.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 7 Party\Sets and Dicts 7 Party\obj\Debug\netcoreapp3.1\Sets and Dicts 7 Party.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 7 Party\Sets and Dicts 7 Party\obj\Debug\netcoreapp3.1\Sets and Dicts 7 Party.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 7 Party\Sets and Dicts 7 Party\obj\Debug\netcoreapp3.1\Sets and Dicts 7 Party.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 7 Party\Sets and Dicts 7 Party\obj\Debug\netcoreapp3.1\Sets and Dicts 7 Party.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 7 Party\Sets and Dicts 7 Party\obj\Debug\netcoreapp3.1\Sets and Dicts 7 Party.genruntimeconfig.cache

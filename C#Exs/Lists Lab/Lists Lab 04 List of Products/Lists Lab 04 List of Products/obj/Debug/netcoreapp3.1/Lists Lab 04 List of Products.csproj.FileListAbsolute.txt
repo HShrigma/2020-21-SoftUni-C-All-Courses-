@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 04 List of Products\Lists Lab 04 List of Products\bin\Debug\netcoreapp3.1\Lists Lab 04 List of Products.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 04 List of Products\Lists Lab 04 List of Products\bin\Debug\netcoreapp3.1\Lists Lab 04 List of Products.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 04 List of Products\Lists Lab 04 List of Products\bin\Debug\netcoreapp3.1\Lists Lab 04 List of Products.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 04 List of Products\Lists Lab 04 List of Products\bin\Debug\netcoreapp3.1\Lists Lab 04 List of Products.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 04 List of Products\Lists Lab 04 List of Products\bin\Debug\netcoreapp3.1\Lists Lab 04 List of Products.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 04 List of Products\Lists Lab 04 List of Products\bin\Debug\netcoreapp3.1\Lists Lab 04 List of Products.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 04 List of Products\Lists Lab 04 List of Products\obj\Debug\netcoreapp3.1\Lists Lab 04 List of Products.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 04 List of Products\Lists Lab 04 List of Products\obj\Debug\netcoreapp3.1\Lists Lab 04 List of Products.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 04 List of Products\Lists Lab 04 List of Products\obj\Debug\netcoreapp3.1\Lists Lab 04 List of Products.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 04 List of Products\Lists Lab 04 List of Products\obj\Debug\netcoreapp3.1\Lists Lab 04 List of Products.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 04 List of Products\Lists Lab 04 List of Products\obj\Debug\netcoreapp3.1\Lists Lab 04 List of Products.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Lab 04 List of Products\Lists Lab 04 List of Products\obj\Debug\netcoreapp3.1\Lists Lab 04 List of Products.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E5 Dir Traversal\Streams,files,dirs E5 Dir Traversal\bin\Debug\netcoreapp3.1\Streams,files,dirs E5 Dir Traversal.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E5 Dir Traversal\Streams,files,dirs E5 Dir Traversal\bin\Debug\netcoreapp3.1\Streams,files,dirs E5 Dir Traversal.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E5 Dir Traversal\Streams,files,dirs E5 Dir Traversal\bin\Debug\netcoreapp3.1\Streams,files,dirs E5 Dir Traversal.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E5 Dir Traversal\Streams,files,dirs E5 Dir Traversal\bin\Debug\netcoreapp3.1\Streams,files,dirs E5 Dir Traversal.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E5 Dir Traversal\Streams,files,dirs E5 Dir Traversal\bin\Debug\netcoreapp3.1\Streams,files,dirs E5 Dir Traversal.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E5 Dir Traversal\Streams,files,dirs E5 Dir Traversal\bin\Debug\netcoreapp3.1\Streams,files,dirs E5 Dir Traversal.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E5 Dir Traversal\Streams,files,dirs E5 Dir Traversal\obj\Debug\netcoreapp3.1\Streams,files,dirs E5 Dir Traversal.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E5 Dir Traversal\Streams,files,dirs E5 Dir Traversal\obj\Debug\netcoreapp3.1\Streams,files,dirs E5 Dir Traversal.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E5 Dir Traversal\Streams,files,dirs E5 Dir Traversal\obj\Debug\netcoreapp3.1\Streams,files,dirs E5 Dir Traversal.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E5 Dir Traversal\Streams,files,dirs E5 Dir Traversal\obj\Debug\netcoreapp3.1\Streams,files,dirs E5 Dir Traversal.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E5 Dir Traversal\Streams,files,dirs E5 Dir Traversal\obj\Debug\netcoreapp3.1\Streams,files,dirs E5 Dir Traversal.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E5 Dir Traversal\Streams,files,dirs E5 Dir Traversal\obj\Debug\netcoreapp3.1\Streams,files,dirs E5 Dir Traversal.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E5 Dir Traversal\Streams,files,dirs E5 Dir Traversal\obj\Debug\netcoreapp3.1\Streams,files,dirs E5 Dir Traversal.genruntimeconfig.cache

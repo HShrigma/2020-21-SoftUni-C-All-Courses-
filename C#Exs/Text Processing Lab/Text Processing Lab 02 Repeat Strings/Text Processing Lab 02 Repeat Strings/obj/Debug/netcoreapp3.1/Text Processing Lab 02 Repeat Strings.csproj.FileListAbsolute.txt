@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 02 Repeat Strings\Text Processing Lab 02 Repeat Strings\bin\Debug\netcoreapp3.1\Text Processing Lab 02 Repeat Strings.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 02 Repeat Strings\Text Processing Lab 02 Repeat Strings\bin\Debug\netcoreapp3.1\Text Processing Lab 02 Repeat Strings.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 02 Repeat Strings\Text Processing Lab 02 Repeat Strings\bin\Debug\netcoreapp3.1\Text Processing Lab 02 Repeat Strings.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 02 Repeat Strings\Text Processing Lab 02 Repeat Strings\bin\Debug\netcoreapp3.1\Text Processing Lab 02 Repeat Strings.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 02 Repeat Strings\Text Processing Lab 02 Repeat Strings\bin\Debug\netcoreapp3.1\Text Processing Lab 02 Repeat Strings.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 02 Repeat Strings\Text Processing Lab 02 Repeat Strings\bin\Debug\netcoreapp3.1\Text Processing Lab 02 Repeat Strings.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 02 Repeat Strings\Text Processing Lab 02 Repeat Strings\obj\Debug\netcoreapp3.1\Text Processing Lab 02 Repeat Strings.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 02 Repeat Strings\Text Processing Lab 02 Repeat Strings\obj\Debug\netcoreapp3.1\Text Processing Lab 02 Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 02 Repeat Strings\Text Processing Lab 02 Repeat Strings\obj\Debug\netcoreapp3.1\Text Processing Lab 02 Repeat Strings.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 02 Repeat Strings\Text Processing Lab 02 Repeat Strings\obj\Debug\netcoreapp3.1\Text Processing Lab 02 Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 02 Repeat Strings\Text Processing Lab 02 Repeat Strings\obj\Debug\netcoreapp3.1\Text Processing Lab 02 Repeat Strings.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 02 Repeat Strings\Text Processing Lab 02 Repeat Strings\obj\Debug\netcoreapp3.1\Text Processing Lab 02 Repeat Strings.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 02 Repeat Strings\Text Processing Lab 02 Repeat Strings\obj\Debug\netcoreapp3.1\Text Processing Lab 02 Repeat Strings.genruntimeconfig.cache

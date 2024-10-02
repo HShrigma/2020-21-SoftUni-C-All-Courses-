@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Exercise 02 Articles\Objects and Classes Exercise 02 Articles\bin\Debug\netcoreapp3.1\Objects and Classes Exercise 02 Articles.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Exercise 02 Articles\Objects and Classes Exercise 02 Articles\bin\Debug\netcoreapp3.1\Objects and Classes Exercise 02 Articles.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Exercise 02 Articles\Objects and Classes Exercise 02 Articles\bin\Debug\netcoreapp3.1\Objects and Classes Exercise 02 Articles.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Exercise 02 Articles\Objects and Classes Exercise 02 Articles\bin\Debug\netcoreapp3.1\Objects and Classes Exercise 02 Articles.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Exercise 02 Articles\Objects and Classes Exercise 02 Articles\bin\Debug\netcoreapp3.1\Objects and Classes Exercise 02 Articles.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Exercise 02 Articles\Objects and Classes Exercise 02 Articles\bin\Debug\netcoreapp3.1\Objects and Classes Exercise 02 Articles.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Exercise 02 Articles\Objects and Classes Exercise 02 Articles\obj\Debug\netcoreapp3.1\Objects and Classes Exercise 02 Articles.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Exercise 02 Articles\Objects and Classes Exercise 02 Articles\obj\Debug\netcoreapp3.1\Objects and Classes Exercise 02 Articles.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Exercise 02 Articles\Objects and Classes Exercise 02 Articles\obj\Debug\netcoreapp3.1\Objects and Classes Exercise 02 Articles.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Exercise 02 Articles\Objects and Classes Exercise 02 Articles\obj\Debug\netcoreapp3.1\Objects and Classes Exercise 02 Articles.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Exercise 02 Articles\Objects and Classes Exercise 02 Articles\obj\Debug\netcoreapp3.1\Objects and Classes Exercise 02 Articles.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Exercise 02 Articles\Objects and Classes Exercise 02 Articles\obj\Debug\netcoreapp3.1\Objects and Classes Exercise 02 Articles.genruntimeconfig.cache

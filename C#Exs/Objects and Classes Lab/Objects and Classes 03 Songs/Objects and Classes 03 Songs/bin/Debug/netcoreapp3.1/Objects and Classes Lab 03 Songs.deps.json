@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Objects and Classes Lab 03 Songs/1.0.0": {
+        "runtime": {
+          "Objects and Classes Lab 03 Songs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Objects and Classes Lab 03 Songs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

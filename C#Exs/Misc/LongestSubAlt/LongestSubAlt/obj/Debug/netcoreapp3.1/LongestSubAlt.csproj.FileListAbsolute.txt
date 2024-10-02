@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSubAlt\LongestSubAlt\bin\Debug\netcoreapp3.1\LongestSubAlt.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSubAlt\LongestSubAlt\bin\Debug\netcoreapp3.1\LongestSubAlt.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSubAlt\LongestSubAlt\bin\Debug\netcoreapp3.1\LongestSubAlt.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSubAlt\LongestSubAlt\bin\Debug\netcoreapp3.1\LongestSubAlt.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSubAlt\LongestSubAlt\bin\Debug\netcoreapp3.1\LongestSubAlt.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSubAlt\LongestSubAlt\bin\Debug\netcoreapp3.1\LongestSubAlt.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSubAlt\LongestSubAlt\obj\Debug\netcoreapp3.1\LongestSubAlt.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSubAlt\LongestSubAlt\obj\Debug\netcoreapp3.1\LongestSubAlt.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSubAlt\LongestSubAlt\obj\Debug\netcoreapp3.1\LongestSubAlt.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSubAlt\LongestSubAlt\obj\Debug\netcoreapp3.1\LongestSubAlt.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSubAlt\LongestSubAlt\obj\Debug\netcoreapp3.1\LongestSubAlt.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSubAlt\LongestSubAlt\obj\Debug\netcoreapp3.1\LongestSubAlt.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSubAlt\LongestSubAlt\obj\Debug\netcoreapp3.1\LongestSubAlt.genruntimeconfig.cache

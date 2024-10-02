@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSub\LongestSub\bin\Debug\netcoreapp3.1\LongestSub.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSub\LongestSub\bin\Debug\netcoreapp3.1\LongestSub.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSub\LongestSub\bin\Debug\netcoreapp3.1\LongestSub.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSub\LongestSub\bin\Debug\netcoreapp3.1\LongestSub.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSub\LongestSub\bin\Debug\netcoreapp3.1\LongestSub.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSub\LongestSub\bin\Debug\netcoreapp3.1\LongestSub.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSub\LongestSub\obj\Debug\netcoreapp3.1\LongestSub.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSub\LongestSub\obj\Debug\netcoreapp3.1\LongestSub.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSub\LongestSub\obj\Debug\netcoreapp3.1\LongestSub.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSub\LongestSub\obj\Debug\netcoreapp3.1\LongestSub.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSub\LongestSub\obj\Debug\netcoreapp3.1\LongestSub.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSub\LongestSub\obj\Debug\netcoreapp3.1\LongestSub.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\LongestSub\LongestSub\obj\Debug\netcoreapp3.1\LongestSub.genruntimeconfig.cache

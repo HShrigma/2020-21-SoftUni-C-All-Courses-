@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\DataTypesAndVars\DataTypesAndVars\bin\Debug\netcoreapp3.1\DataTypesAndVars.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\DataTypesAndVars\DataTypesAndVars\bin\Debug\netcoreapp3.1\DataTypesAndVars.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\DataTypesAndVars\DataTypesAndVars\bin\Debug\netcoreapp3.1\DataTypesAndVars.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\DataTypesAndVars\DataTypesAndVars\bin\Debug\netcoreapp3.1\DataTypesAndVars.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\DataTypesAndVars\DataTypesAndVars\bin\Debug\netcoreapp3.1\DataTypesAndVars.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\DataTypesAndVars\DataTypesAndVars\bin\Debug\netcoreapp3.1\DataTypesAndVars.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\DataTypesAndVars\DataTypesAndVars\obj\Debug\netcoreapp3.1\DataTypesAndVars.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\DataTypesAndVars\DataTypesAndVars\obj\Debug\netcoreapp3.1\DataTypesAndVars.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\DataTypesAndVars\DataTypesAndVars\obj\Debug\netcoreapp3.1\DataTypesAndVars.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\DataTypesAndVars\DataTypesAndVars\obj\Debug\netcoreapp3.1\DataTypesAndVars.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\DataTypesAndVars\DataTypesAndVars\obj\Debug\netcoreapp3.1\DataTypesAndVars.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\DataTypesAndVars\DataTypesAndVars\obj\Debug\netcoreapp3.1\DataTypesAndVars.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\DataTypesAndVars\DataTypesAndVars\obj\Debug\netcoreapp3.1\DataTypesAndVars.genruntimeconfig.cache

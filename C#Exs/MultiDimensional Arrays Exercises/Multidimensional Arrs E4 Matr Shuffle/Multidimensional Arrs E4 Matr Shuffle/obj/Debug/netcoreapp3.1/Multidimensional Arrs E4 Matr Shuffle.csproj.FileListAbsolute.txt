@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E4 Matr Shuffle\Multidimensional Arrs E4 Matr Shuffle\bin\Debug\netcoreapp3.1\Multidimensional Arrs E4 Matr Shuffle.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E4 Matr Shuffle\Multidimensional Arrs E4 Matr Shuffle\bin\Debug\netcoreapp3.1\Multidimensional Arrs E4 Matr Shuffle.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E4 Matr Shuffle\Multidimensional Arrs E4 Matr Shuffle\bin\Debug\netcoreapp3.1\Multidimensional Arrs E4 Matr Shuffle.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E4 Matr Shuffle\Multidimensional Arrs E4 Matr Shuffle\bin\Debug\netcoreapp3.1\Multidimensional Arrs E4 Matr Shuffle.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E4 Matr Shuffle\Multidimensional Arrs E4 Matr Shuffle\bin\Debug\netcoreapp3.1\Multidimensional Arrs E4 Matr Shuffle.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E4 Matr Shuffle\Multidimensional Arrs E4 Matr Shuffle\bin\Debug\netcoreapp3.1\Multidimensional Arrs E4 Matr Shuffle.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E4 Matr Shuffle\Multidimensional Arrs E4 Matr Shuffle\obj\Debug\netcoreapp3.1\Multidimensional Arrs E4 Matr Shuffle.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E4 Matr Shuffle\Multidimensional Arrs E4 Matr Shuffle\obj\Debug\netcoreapp3.1\Multidimensional Arrs E4 Matr Shuffle.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E4 Matr Shuffle\Multidimensional Arrs E4 Matr Shuffle\obj\Debug\netcoreapp3.1\Multidimensional Arrs E4 Matr Shuffle.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E4 Matr Shuffle\Multidimensional Arrs E4 Matr Shuffle\obj\Debug\netcoreapp3.1\Multidimensional Arrs E4 Matr Shuffle.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E4 Matr Shuffle\Multidimensional Arrs E4 Matr Shuffle\obj\Debug\netcoreapp3.1\Multidimensional Arrs E4 Matr Shuffle.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E4 Matr Shuffle\Multidimensional Arrs E4 Matr Shuffle\obj\Debug\netcoreapp3.1\Multidimensional Arrs E4 Matr Shuffle.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E4 Matr Shuffle\Multidimensional Arrs E4 Matr Shuffle\obj\Debug\netcoreapp3.1\Multidimensional Arrs E4 Matr Shuffle.genruntimeconfig.cache

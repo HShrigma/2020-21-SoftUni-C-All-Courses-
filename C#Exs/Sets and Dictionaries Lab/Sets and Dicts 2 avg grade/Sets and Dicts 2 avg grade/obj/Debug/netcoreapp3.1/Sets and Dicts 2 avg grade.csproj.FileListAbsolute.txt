@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 2 avg grade\Sets and Dicts 2 avg grade\bin\Debug\netcoreapp3.1\Sets and Dicts 2 avg grade.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 2 avg grade\Sets and Dicts 2 avg grade\bin\Debug\netcoreapp3.1\Sets and Dicts 2 avg grade.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 2 avg grade\Sets and Dicts 2 avg grade\bin\Debug\netcoreapp3.1\Sets and Dicts 2 avg grade.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 2 avg grade\Sets and Dicts 2 avg grade\bin\Debug\netcoreapp3.1\Sets and Dicts 2 avg grade.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 2 avg grade\Sets and Dicts 2 avg grade\bin\Debug\netcoreapp3.1\Sets and Dicts 2 avg grade.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 2 avg grade\Sets and Dicts 2 avg grade\bin\Debug\netcoreapp3.1\Sets and Dicts 2 avg grade.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 2 avg grade\Sets and Dicts 2 avg grade\obj\Debug\netcoreapp3.1\Sets and Dicts 2 avg grade.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 2 avg grade\Sets and Dicts 2 avg grade\obj\Debug\netcoreapp3.1\Sets and Dicts 2 avg grade.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 2 avg grade\Sets and Dicts 2 avg grade\obj\Debug\netcoreapp3.1\Sets and Dicts 2 avg grade.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 2 avg grade\Sets and Dicts 2 avg grade\obj\Debug\netcoreapp3.1\Sets and Dicts 2 avg grade.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 2 avg grade\Sets and Dicts 2 avg grade\obj\Debug\netcoreapp3.1\Sets and Dicts 2 avg grade.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 2 avg grade\Sets and Dicts 2 avg grade\obj\Debug\netcoreapp3.1\Sets and Dicts 2 avg grade.genruntimeconfig.cache

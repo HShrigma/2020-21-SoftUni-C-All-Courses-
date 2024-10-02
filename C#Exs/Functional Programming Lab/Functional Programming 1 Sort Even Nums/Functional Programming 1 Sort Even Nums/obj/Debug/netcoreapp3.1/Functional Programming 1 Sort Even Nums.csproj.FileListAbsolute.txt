@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Functional Programming 1 Sort Even Nums\Functional Programming 1 Sort Even Nums\bin\Debug\netcoreapp3.1\Functional Programming 1 Sort Even Nums.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Functional Programming 1 Sort Even Nums\Functional Programming 1 Sort Even Nums\bin\Debug\netcoreapp3.1\Functional Programming 1 Sort Even Nums.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Functional Programming 1 Sort Even Nums\Functional Programming 1 Sort Even Nums\bin\Debug\netcoreapp3.1\Functional Programming 1 Sort Even Nums.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Functional Programming 1 Sort Even Nums\Functional Programming 1 Sort Even Nums\bin\Debug\netcoreapp3.1\Functional Programming 1 Sort Even Nums.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Functional Programming 1 Sort Even Nums\Functional Programming 1 Sort Even Nums\bin\Debug\netcoreapp3.1\Functional Programming 1 Sort Even Nums.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Functional Programming 1 Sort Even Nums\Functional Programming 1 Sort Even Nums\bin\Debug\netcoreapp3.1\Functional Programming 1 Sort Even Nums.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Functional Programming 1 Sort Even Nums\Functional Programming 1 Sort Even Nums\obj\Debug\netcoreapp3.1\Functional Programming 1 Sort Even Nums.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Functional Programming 1 Sort Even Nums\Functional Programming 1 Sort Even Nums\obj\Debug\netcoreapp3.1\Functional Programming 1 Sort Even Nums.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Functional Programming 1 Sort Even Nums\Functional Programming 1 Sort Even Nums\obj\Debug\netcoreapp3.1\Functional Programming 1 Sort Even Nums.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Functional Programming 1 Sort Even Nums\Functional Programming 1 Sort Even Nums\obj\Debug\netcoreapp3.1\Functional Programming 1 Sort Even Nums.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Functional Programming 1 Sort Even Nums\Functional Programming 1 Sort Even Nums\obj\Debug\netcoreapp3.1\Functional Programming 1 Sort Even Nums.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Functional Programming 1 Sort Even Nums\Functional Programming 1 Sort Even Nums\obj\Debug\netcoreapp3.1\Functional Programming 1 Sort Even Nums.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Functional Programming 1 Sort Even Nums\Functional Programming 1 Sort Even Nums\obj\Debug\netcoreapp3.1\Functional Programming 1 Sort Even Nums.genruntimeconfig.cache

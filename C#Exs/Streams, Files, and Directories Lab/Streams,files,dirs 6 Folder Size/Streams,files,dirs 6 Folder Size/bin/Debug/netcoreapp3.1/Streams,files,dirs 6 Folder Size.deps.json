@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Streams,files,dirs 6 Folder Size/1.0.0": {
+        "runtime": {
+          "Streams,files,dirs 6 Folder Size.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Streams,files,dirs 6 Folder Size/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

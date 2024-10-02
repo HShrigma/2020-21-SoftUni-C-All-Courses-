@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Regular Expressions Lab 02 Match Phone Num\Regular Expressions Lab 02 Match Phone Num\bin\Debug\netcoreapp3.1\Regular Expressions Lab 02 Match Phone Num.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Regular Expressions Lab 02 Match Phone Num\Regular Expressions Lab 02 Match Phone Num\bin\Debug\netcoreapp3.1\Regular Expressions Lab 02 Match Phone Num.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Regular Expressions Lab 02 Match Phone Num\Regular Expressions Lab 02 Match Phone Num\bin\Debug\netcoreapp3.1\Regular Expressions Lab 02 Match Phone Num.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Regular Expressions Lab 02 Match Phone Num\Regular Expressions Lab 02 Match Phone Num\bin\Debug\netcoreapp3.1\Regular Expressions Lab 02 Match Phone Num.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Regular Expressions Lab 02 Match Phone Num\Regular Expressions Lab 02 Match Phone Num\bin\Debug\netcoreapp3.1\Regular Expressions Lab 02 Match Phone Num.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Regular Expressions Lab 02 Match Phone Num\Regular Expressions Lab 02 Match Phone Num\bin\Debug\netcoreapp3.1\Regular Expressions Lab 02 Match Phone Num.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Regular Expressions Lab 02 Match Phone Num\Regular Expressions Lab 02 Match Phone Num\obj\Debug\netcoreapp3.1\Regular Expressions Lab 02 Match Phone Num.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Regular Expressions Lab 02 Match Phone Num\Regular Expressions Lab 02 Match Phone Num\obj\Debug\netcoreapp3.1\Regular Expressions Lab 02 Match Phone Num.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Regular Expressions Lab 02 Match Phone Num\Regular Expressions Lab 02 Match Phone Num\obj\Debug\netcoreapp3.1\Regular Expressions Lab 02 Match Phone Num.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Regular Expressions Lab 02 Match Phone Num\Regular Expressions Lab 02 Match Phone Num\obj\Debug\netcoreapp3.1\Regular Expressions Lab 02 Match Phone Num.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Regular Expressions Lab 02 Match Phone Num\Regular Expressions Lab 02 Match Phone Num\obj\Debug\netcoreapp3.1\Regular Expressions Lab 02 Match Phone Num.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Regular Expressions Lab 02 Match Phone Num\Regular Expressions Lab 02 Match Phone Num\obj\Debug\netcoreapp3.1\Regular Expressions Lab 02 Match Phone Num.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Regular Expressions Lab 02 Match Phone Num\Regular Expressions Lab 02 Match Phone Num\obj\Debug\netcoreapp3.1\Regular Expressions Lab 02 Match Phone Num.genruntimeconfig.cache

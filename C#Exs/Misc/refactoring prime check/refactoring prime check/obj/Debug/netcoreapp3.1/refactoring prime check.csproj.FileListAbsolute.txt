@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\refactoring prime check\refactoring prime check\bin\Debug\netcoreapp3.1\refactoring prime check.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\refactoring prime check\refactoring prime check\bin\Debug\netcoreapp3.1\refactoring prime check.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\refactoring prime check\refactoring prime check\bin\Debug\netcoreapp3.1\refactoring prime check.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\refactoring prime check\refactoring prime check\bin\Debug\netcoreapp3.1\refactoring prime check.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\refactoring prime check\refactoring prime check\bin\Debug\netcoreapp3.1\refactoring prime check.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\refactoring prime check\refactoring prime check\bin\Debug\netcoreapp3.1\refactoring prime check.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\refactoring prime check\refactoring prime check\obj\Debug\netcoreapp3.1\refactoring prime check.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\refactoring prime check\refactoring prime check\obj\Debug\netcoreapp3.1\refactoring prime check.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\refactoring prime check\refactoring prime check\obj\Debug\netcoreapp3.1\refactoring prime check.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\refactoring prime check\refactoring prime check\obj\Debug\netcoreapp3.1\refactoring prime check.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\refactoring prime check\refactoring prime check\obj\Debug\netcoreapp3.1\refactoring prime check.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\refactoring prime check\refactoring prime check\obj\Debug\netcoreapp3.1\refactoring prime check.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\refactoring prime check\refactoring prime check\obj\Debug\netcoreapp3.1\refactoring prime check.genruntimeconfig.cache

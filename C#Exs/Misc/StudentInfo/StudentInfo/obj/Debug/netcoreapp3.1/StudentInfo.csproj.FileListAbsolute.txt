@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\StudentInfo\StudentInfo\bin\Debug\netcoreapp3.1\StudentInfo.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\StudentInfo\StudentInfo\bin\Debug\netcoreapp3.1\StudentInfo.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\StudentInfo\StudentInfo\bin\Debug\netcoreapp3.1\StudentInfo.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\StudentInfo\StudentInfo\bin\Debug\netcoreapp3.1\StudentInfo.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\StudentInfo\StudentInfo\bin\Debug\netcoreapp3.1\StudentInfo.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\StudentInfo\StudentInfo\bin\Debug\netcoreapp3.1\StudentInfo.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\StudentInfo\StudentInfo\obj\Debug\netcoreapp3.1\StudentInfo.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\StudentInfo\StudentInfo\obj\Debug\netcoreapp3.1\StudentInfo.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\StudentInfo\StudentInfo\obj\Debug\netcoreapp3.1\StudentInfo.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\StudentInfo\StudentInfo\obj\Debug\netcoreapp3.1\StudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\StudentInfo\StudentInfo\obj\Debug\netcoreapp3.1\StudentInfo.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\StudentInfo\StudentInfo\obj\Debug\netcoreapp3.1\StudentInfo.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\StudentInfo\StudentInfo\obj\Debug\netcoreapp3.1\StudentInfo.genruntimeconfig.cache

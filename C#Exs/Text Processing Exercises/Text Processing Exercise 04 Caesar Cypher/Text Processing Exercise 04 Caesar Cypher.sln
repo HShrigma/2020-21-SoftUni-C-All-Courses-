@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text Processing Exercise 04 Caesar Cypher", "Text Processing Exercise 04 Caesar Cypher\Text Processing Exercise 04 Caesar Cypher.csproj", "{276F3F28-3DDB-429B-AAD7-C7804D3A3933}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{276F3F28-3DDB-429B-AAD7-C7804D3A3933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276F3F28-3DDB-429B-AAD7-C7804D3A3933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276F3F28-3DDB-429B-AAD7-C7804D3A3933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276F3F28-3DDB-429B-AAD7-C7804D3A3933}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B47EEE51-55EA-4043-A773-A1880E60C6BB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\FindNegativesInArr\FindNegativesInArr\bin\Debug\netcoreapp3.1\FindNegativesInArr.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\FindNegativesInArr\FindNegativesInArr\bin\Debug\netcoreapp3.1\FindNegativesInArr.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\FindNegativesInArr\FindNegativesInArr\bin\Debug\netcoreapp3.1\FindNegativesInArr.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\FindNegativesInArr\FindNegativesInArr\bin\Debug\netcoreapp3.1\FindNegativesInArr.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\FindNegativesInArr\FindNegativesInArr\bin\Debug\netcoreapp3.1\FindNegativesInArr.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\FindNegativesInArr\FindNegativesInArr\bin\Debug\netcoreapp3.1\FindNegativesInArr.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\FindNegativesInArr\FindNegativesInArr\obj\Debug\netcoreapp3.1\FindNegativesInArr.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\FindNegativesInArr\FindNegativesInArr\obj\Debug\netcoreapp3.1\FindNegativesInArr.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\FindNegativesInArr\FindNegativesInArr\obj\Debug\netcoreapp3.1\FindNegativesInArr.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\FindNegativesInArr\FindNegativesInArr\obj\Debug\netcoreapp3.1\FindNegativesInArr.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\FindNegativesInArr\FindNegativesInArr\obj\Debug\netcoreapp3.1\FindNegativesInArr.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\FindNegativesInArr\FindNegativesInArr\obj\Debug\netcoreapp3.1\FindNegativesInArr.genruntimeconfig.cache

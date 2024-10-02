@@ -1,0 +1,15 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\InheritTest\InheritTest\bin\Debug\net6.0\InheritTest.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\InheritTest\InheritTest\bin\Debug\net6.0\InheritTest.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\InheritTest\InheritTest\bin\Debug\net6.0\InheritTest.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\InheritTest\InheritTest\bin\Debug\net6.0\InheritTest.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\InheritTest\InheritTest\bin\Debug\net6.0\InheritTest.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\InheritTest\InheritTest\obj\Debug\net6.0\InheritTest.csproj.AssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\InheritTest\InheritTest\obj\Debug\net6.0\InheritTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admiral Gen. Aladeen\source\repos\InheritTest\InheritTest\obj\Debug\net6.0\InheritTest.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\InheritTest\InheritTest\obj\Debug\net6.0\InheritTest.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\InheritTest\InheritTest\obj\Debug\net6.0\InheritTest.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\InheritTest\InheritTest\obj\Debug\net6.0\InheritTest.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\InheritTest\InheritTest\obj\Debug\net6.0\refint\InheritTest.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\InheritTest\InheritTest\obj\Debug\net6.0\InheritTest.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\InheritTest\InheritTest\obj\Debug\net6.0\InheritTest.genruntimeconfig.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\InheritTest\InheritTest\obj\Debug\net6.0\ref\InheritTest.dll

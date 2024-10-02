@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\PhoneKeyPad\PhoneKeyPad\bin\Debug\netcoreapp3.1\PhoneKeyPad.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\PhoneKeyPad\PhoneKeyPad\bin\Debug\netcoreapp3.1\PhoneKeyPad.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\PhoneKeyPad\PhoneKeyPad\bin\Debug\netcoreapp3.1\PhoneKeyPad.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\PhoneKeyPad\PhoneKeyPad\bin\Debug\netcoreapp3.1\PhoneKeyPad.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\PhoneKeyPad\PhoneKeyPad\bin\Debug\netcoreapp3.1\PhoneKeyPad.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\PhoneKeyPad\PhoneKeyPad\bin\Debug\netcoreapp3.1\PhoneKeyPad.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\PhoneKeyPad\PhoneKeyPad\obj\Debug\netcoreapp3.1\PhoneKeyPad.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\PhoneKeyPad\PhoneKeyPad\obj\Debug\netcoreapp3.1\PhoneKeyPad.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\PhoneKeyPad\PhoneKeyPad\obj\Debug\netcoreapp3.1\PhoneKeyPad.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\PhoneKeyPad\PhoneKeyPad\obj\Debug\netcoreapp3.1\PhoneKeyPad.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\PhoneKeyPad\PhoneKeyPad\obj\Debug\netcoreapp3.1\PhoneKeyPad.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\PhoneKeyPad\PhoneKeyPad\obj\Debug\netcoreapp3.1\PhoneKeyPad.genruntimeconfig.cache

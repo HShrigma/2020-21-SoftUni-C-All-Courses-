@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes 03 Songs\Objects and Classes 03 Songs\bin\Debug\netcoreapp3.1\Objects and Classes 03 Songs.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes 03 Songs\Objects and Classes 03 Songs\bin\Debug\netcoreapp3.1\Objects and Classes 03 Songs.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes 03 Songs\Objects and Classes 03 Songs\bin\Debug\netcoreapp3.1\Objects and Classes 03 Songs.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes 03 Songs\Objects and Classes 03 Songs\bin\Debug\netcoreapp3.1\Objects and Classes 03 Songs.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes 03 Songs\Objects and Classes 03 Songs\bin\Debug\netcoreapp3.1\Objects and Classes 03 Songs.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes 03 Songs\Objects and Classes 03 Songs\bin\Debug\netcoreapp3.1\Objects and Classes 03 Songs.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes 03 Songs\Objects and Classes 03 Songs\obj\Debug\netcoreapp3.1\Objects and Classes 03 Songs.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes 03 Songs\Objects and Classes 03 Songs\obj\Debug\netcoreapp3.1\Objects and Classes 03 Songs.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes 03 Songs\Objects and Classes 03 Songs\obj\Debug\netcoreapp3.1\Objects and Classes 03 Songs.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes 03 Songs\Objects and Classes 03 Songs\obj\Debug\netcoreapp3.1\Objects and Classes 03 Songs.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes 03 Songs\Objects and Classes 03 Songs\obj\Debug\netcoreapp3.1\Objects and Classes 03 Songs.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes 03 Songs\Objects and Classes 03 Songs\obj\Debug\netcoreapp3.1\Objects and Classes 03 Songs.genruntimeconfig.cache

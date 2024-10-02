@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streams,files,dirs E5 Dir Traversal", "Streams,files,dirs E5 Dir Traversal\Streams,files,dirs E5 Dir Traversal.csproj", "{AFC80827-83A6-4016-BD44-4E272533FA1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFC80827-83A6-4016-BD44-4E272533FA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC80827-83A6-4016-BD44-4E272533FA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC80827-83A6-4016-BD44-4E272533FA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC80827-83A6-4016-BD44-4E272533FA1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03EDF634-F521-42E2-8191-678458A72F6B}
+	EndGlobalSection
+EndGlobal

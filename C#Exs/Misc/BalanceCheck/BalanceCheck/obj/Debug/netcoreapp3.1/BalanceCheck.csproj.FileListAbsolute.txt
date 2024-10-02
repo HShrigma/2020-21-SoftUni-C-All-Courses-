@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\BalanceCheck\BalanceCheck\bin\Debug\netcoreapp3.1\BalanceCheck.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\BalanceCheck\BalanceCheck\bin\Debug\netcoreapp3.1\BalanceCheck.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\BalanceCheck\BalanceCheck\bin\Debug\netcoreapp3.1\BalanceCheck.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\BalanceCheck\BalanceCheck\bin\Debug\netcoreapp3.1\BalanceCheck.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\BalanceCheck\BalanceCheck\bin\Debug\netcoreapp3.1\BalanceCheck.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\BalanceCheck\BalanceCheck\bin\Debug\netcoreapp3.1\BalanceCheck.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\BalanceCheck\BalanceCheck\obj\Debug\netcoreapp3.1\BalanceCheck.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\BalanceCheck\BalanceCheck\obj\Debug\netcoreapp3.1\BalanceCheck.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\BalanceCheck\BalanceCheck\obj\Debug\netcoreapp3.1\BalanceCheck.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\BalanceCheck\BalanceCheck\obj\Debug\netcoreapp3.1\BalanceCheck.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\BalanceCheck\BalanceCheck\obj\Debug\netcoreapp3.1\BalanceCheck.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\BalanceCheck\BalanceCheck\obj\Debug\netcoreapp3.1\BalanceCheck.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\BalanceCheck\BalanceCheck\obj\Debug\netcoreapp3.1\BalanceCheck.genruntimeconfig.cache

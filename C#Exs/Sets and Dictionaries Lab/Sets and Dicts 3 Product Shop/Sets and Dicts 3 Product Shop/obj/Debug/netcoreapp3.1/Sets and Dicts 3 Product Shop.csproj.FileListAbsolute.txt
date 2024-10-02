@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 3 Product Shop\Sets and Dicts 3 Product Shop\bin\Debug\netcoreapp3.1\Sets and Dicts 3 Product Shop.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 3 Product Shop\Sets and Dicts 3 Product Shop\bin\Debug\netcoreapp3.1\Sets and Dicts 3 Product Shop.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 3 Product Shop\Sets and Dicts 3 Product Shop\bin\Debug\netcoreapp3.1\Sets and Dicts 3 Product Shop.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 3 Product Shop\Sets and Dicts 3 Product Shop\bin\Debug\netcoreapp3.1\Sets and Dicts 3 Product Shop.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 3 Product Shop\Sets and Dicts 3 Product Shop\bin\Debug\netcoreapp3.1\Sets and Dicts 3 Product Shop.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 3 Product Shop\Sets and Dicts 3 Product Shop\bin\Debug\netcoreapp3.1\Sets and Dicts 3 Product Shop.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 3 Product Shop\Sets and Dicts 3 Product Shop\obj\Debug\netcoreapp3.1\Sets and Dicts 3 Product Shop.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 3 Product Shop\Sets and Dicts 3 Product Shop\obj\Debug\netcoreapp3.1\Sets and Dicts 3 Product Shop.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 3 Product Shop\Sets and Dicts 3 Product Shop\obj\Debug\netcoreapp3.1\Sets and Dicts 3 Product Shop.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 3 Product Shop\Sets and Dicts 3 Product Shop\obj\Debug\netcoreapp3.1\Sets and Dicts 3 Product Shop.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 3 Product Shop\Sets and Dicts 3 Product Shop\obj\Debug\netcoreapp3.1\Sets and Dicts 3 Product Shop.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 3 Product Shop\Sets and Dicts 3 Product Shop\obj\Debug\netcoreapp3.1\Sets and Dicts 3 Product Shop.genruntimeconfig.cache

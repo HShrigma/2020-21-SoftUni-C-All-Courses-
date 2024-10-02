@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\ArraysExTrain\ArraysExTrain\bin\Debug\netcoreapp3.1\ArraysExTrain.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\ArraysExTrain\ArraysExTrain\bin\Debug\netcoreapp3.1\ArraysExTrain.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\ArraysExTrain\ArraysExTrain\bin\Debug\netcoreapp3.1\ArraysExTrain.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\ArraysExTrain\ArraysExTrain\bin\Debug\netcoreapp3.1\ArraysExTrain.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\ArraysExTrain\ArraysExTrain\bin\Debug\netcoreapp3.1\ArraysExTrain.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\ArraysExTrain\ArraysExTrain\bin\Debug\netcoreapp3.1\ArraysExTrain.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\ArraysExTrain\ArraysExTrain\obj\Debug\netcoreapp3.1\ArraysExTrain.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\ArraysExTrain\ArraysExTrain\obj\Debug\netcoreapp3.1\ArraysExTrain.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\ArraysExTrain\ArraysExTrain\obj\Debug\netcoreapp3.1\ArraysExTrain.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\ArraysExTrain\ArraysExTrain\obj\Debug\netcoreapp3.1\ArraysExTrain.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\ArraysExTrain\ArraysExTrain\obj\Debug\netcoreapp3.1\ArraysExTrain.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\ArraysExTrain\ArraysExTrain\obj\Debug\netcoreapp3.1\ArraysExTrain.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\ArraysExTrain\ArraysExTrain\obj\Debug\netcoreapp3.1\ArraysExTrain.genruntimeconfig.cache

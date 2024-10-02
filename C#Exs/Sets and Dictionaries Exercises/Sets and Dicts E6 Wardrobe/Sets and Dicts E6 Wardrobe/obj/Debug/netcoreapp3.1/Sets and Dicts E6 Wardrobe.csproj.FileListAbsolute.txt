@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E6 Wardrobe\Sets and Dicts E6 Wardrobe\bin\Debug\netcoreapp3.1\Sets and Dicts E6 Wardrobe.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E6 Wardrobe\Sets and Dicts E6 Wardrobe\bin\Debug\netcoreapp3.1\Sets and Dicts E6 Wardrobe.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E6 Wardrobe\Sets and Dicts E6 Wardrobe\bin\Debug\netcoreapp3.1\Sets and Dicts E6 Wardrobe.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E6 Wardrobe\Sets and Dicts E6 Wardrobe\bin\Debug\netcoreapp3.1\Sets and Dicts E6 Wardrobe.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E6 Wardrobe\Sets and Dicts E6 Wardrobe\bin\Debug\netcoreapp3.1\Sets and Dicts E6 Wardrobe.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E6 Wardrobe\Sets and Dicts E6 Wardrobe\bin\Debug\netcoreapp3.1\Sets and Dicts E6 Wardrobe.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E6 Wardrobe\Sets and Dicts E6 Wardrobe\obj\Debug\netcoreapp3.1\Sets and Dicts E6 Wardrobe.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E6 Wardrobe\Sets and Dicts E6 Wardrobe\obj\Debug\netcoreapp3.1\Sets and Dicts E6 Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E6 Wardrobe\Sets and Dicts E6 Wardrobe\obj\Debug\netcoreapp3.1\Sets and Dicts E6 Wardrobe.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E6 Wardrobe\Sets and Dicts E6 Wardrobe\obj\Debug\netcoreapp3.1\Sets and Dicts E6 Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E6 Wardrobe\Sets and Dicts E6 Wardrobe\obj\Debug\netcoreapp3.1\Sets and Dicts E6 Wardrobe.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E6 Wardrobe\Sets and Dicts E6 Wardrobe\obj\Debug\netcoreapp3.1\Sets and Dicts E6 Wardrobe.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts E6 Wardrobe\Sets and Dicts E6 Wardrobe\obj\Debug\netcoreapp3.1\Sets and Dicts E6 Wardrobe.genruntimeconfig.cache

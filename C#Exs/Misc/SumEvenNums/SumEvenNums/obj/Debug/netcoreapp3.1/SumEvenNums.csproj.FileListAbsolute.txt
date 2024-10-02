@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\SumEvenNums\SumEvenNums\bin\Debug\netcoreapp3.1\SumEvenNums.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\SumEvenNums\SumEvenNums\bin\Debug\netcoreapp3.1\SumEvenNums.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\SumEvenNums\SumEvenNums\bin\Debug\netcoreapp3.1\SumEvenNums.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\SumEvenNums\SumEvenNums\bin\Debug\netcoreapp3.1\SumEvenNums.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\SumEvenNums\SumEvenNums\bin\Debug\netcoreapp3.1\SumEvenNums.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\SumEvenNums\SumEvenNums\bin\Debug\netcoreapp3.1\SumEvenNums.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\SumEvenNums\SumEvenNums\obj\Debug\netcoreapp3.1\SumEvenNums.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\SumEvenNums\SumEvenNums\obj\Debug\netcoreapp3.1\SumEvenNums.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\SumEvenNums\SumEvenNums\obj\Debug\netcoreapp3.1\SumEvenNums.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\SumEvenNums\SumEvenNums\obj\Debug\netcoreapp3.1\SumEvenNums.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\SumEvenNums\SumEvenNums\obj\Debug\netcoreapp3.1\SumEvenNums.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\SumEvenNums\SumEvenNums\obj\Debug\netcoreapp3.1\SumEvenNums.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\SumEvenNums\SumEvenNums\obj\Debug\netcoreapp3.1\SumEvenNums.genruntimeconfig.cache

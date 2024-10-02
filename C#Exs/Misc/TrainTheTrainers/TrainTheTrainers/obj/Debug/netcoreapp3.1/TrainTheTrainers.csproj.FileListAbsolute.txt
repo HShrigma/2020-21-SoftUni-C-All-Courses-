@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\TrainTheTrainers\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\TrainTheTrainers\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\TrainTheTrainers\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\TrainTheTrainers\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\TrainTheTrainers\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\TrainTheTrainers\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\TrainTheTrainers\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\TrainTheTrainers\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\TrainTheTrainers\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\TrainTheTrainers\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\TrainTheTrainers\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\TrainTheTrainers\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.genruntimeconfig.cache

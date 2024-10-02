@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Polymorphism Exercises\Wild Farm\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Polymorphism Exercises\Wild Farm\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Polymorphism Exercises\Wild Farm\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Polymorphism Exercises\Wild Farm\Wild Farm\bin\Debug\netcoreapp3.1\Wild Farm.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Polymorphism Exercises\Wild Farm\Wild Farm\bin\Debug\netcoreapp3.1\Wild Farm.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Polymorphism Exercises\Wild Farm\Wild Farm\bin\Debug\netcoreapp3.1\Wild Farm.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Polymorphism Exercises\Wild Farm\Wild Farm\bin\Debug\netcoreapp3.1\Wild Farm.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Polymorphism Exercises\Wild Farm\Wild Farm\bin\Debug\netcoreapp3.1\Wild Farm.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Polymorphism Exercises\Wild Farm\Wild Farm\bin\Debug\netcoreapp3.1\Wild Farm.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Polymorphism Exercises\Wild Farm\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Polymorphism Exercises\Wild Farm\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Polymorphism Exercises\Wild Farm\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.genruntimeconfig.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Polymorphism Exercises\Wild Farm\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.csprojAssemblyReference.cache

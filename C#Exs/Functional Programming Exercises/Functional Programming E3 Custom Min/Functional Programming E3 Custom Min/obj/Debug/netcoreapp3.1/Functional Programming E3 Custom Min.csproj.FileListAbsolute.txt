@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E3 Custom Min\Functional Programming E3 Custom Min\bin\Debug\netcoreapp3.1\Functional Programming E3 Custom Min.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E3 Custom Min\Functional Programming E3 Custom Min\bin\Debug\netcoreapp3.1\Functional Programming E3 Custom Min.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E3 Custom Min\Functional Programming E3 Custom Min\bin\Debug\netcoreapp3.1\Functional Programming E3 Custom Min.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E3 Custom Min\Functional Programming E3 Custom Min\bin\Debug\netcoreapp3.1\Functional Programming E3 Custom Min.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E3 Custom Min\Functional Programming E3 Custom Min\bin\Debug\netcoreapp3.1\Functional Programming E3 Custom Min.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E3 Custom Min\Functional Programming E3 Custom Min\bin\Debug\netcoreapp3.1\Functional Programming E3 Custom Min.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E3 Custom Min\Functional Programming E3 Custom Min\obj\Debug\netcoreapp3.1\Functional Programming E3 Custom Min.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E3 Custom Min\Functional Programming E3 Custom Min\obj\Debug\netcoreapp3.1\Functional Programming E3 Custom Min.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E3 Custom Min\Functional Programming E3 Custom Min\obj\Debug\netcoreapp3.1\Functional Programming E3 Custom Min.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E3 Custom Min\Functional Programming E3 Custom Min\obj\Debug\netcoreapp3.1\Functional Programming E3 Custom Min.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E3 Custom Min\Functional Programming E3 Custom Min\obj\Debug\netcoreapp3.1\Functional Programming E3 Custom Min.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E3 Custom Min\Functional Programming E3 Custom Min\obj\Debug\netcoreapp3.1\Functional Programming E3 Custom Min.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E3 Custom Min\Functional Programming E3 Custom Min\obj\Debug\netcoreapp3.1\Functional Programming E3 Custom Min.genruntimeconfig.cache

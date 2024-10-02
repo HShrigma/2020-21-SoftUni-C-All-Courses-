@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 01 Factorial\Objects and Classes Lab 01 Factorial\bin\Debug\netcoreapp3.1\Objects and Classes Lab 01 Factorial.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 01 Factorial\Objects and Classes Lab 01 Factorial\bin\Debug\netcoreapp3.1\Objects and Classes Lab 01 Factorial.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 01 Factorial\Objects and Classes Lab 01 Factorial\bin\Debug\netcoreapp3.1\Objects and Classes Lab 01 Factorial.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 01 Factorial\Objects and Classes Lab 01 Factorial\bin\Debug\netcoreapp3.1\Objects and Classes Lab 01 Factorial.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 01 Factorial\Objects and Classes Lab 01 Factorial\bin\Debug\netcoreapp3.1\Objects and Classes Lab 01 Factorial.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 01 Factorial\Objects and Classes Lab 01 Factorial\bin\Debug\netcoreapp3.1\Objects and Classes Lab 01 Factorial.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 01 Factorial\Objects and Classes Lab 01 Factorial\obj\Debug\netcoreapp3.1\Objects and Classes Lab 01 Factorial.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 01 Factorial\Objects and Classes Lab 01 Factorial\obj\Debug\netcoreapp3.1\Objects and Classes Lab 01 Factorial.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 01 Factorial\Objects and Classes Lab 01 Factorial\obj\Debug\netcoreapp3.1\Objects and Classes Lab 01 Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 01 Factorial\Objects and Classes Lab 01 Factorial\obj\Debug\netcoreapp3.1\Objects and Classes Lab 01 Factorial.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 01 Factorial\Objects and Classes Lab 01 Factorial\obj\Debug\netcoreapp3.1\Objects and Classes Lab 01 Factorial.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Objects and Classes Lab 01 Factorial\Objects and Classes Lab 01 Factorial\obj\Debug\netcoreapp3.1\Objects and Classes Lab 01 Factorial.genruntimeconfig.cache

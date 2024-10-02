@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 10 Multiply Evens by Odds\Methods Lab 10 Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Methods Lab 10 Multiply Evens by Odds.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 10 Multiply Evens by Odds\Methods Lab 10 Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Methods Lab 10 Multiply Evens by Odds.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 10 Multiply Evens by Odds\Methods Lab 10 Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Methods Lab 10 Multiply Evens by Odds.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 10 Multiply Evens by Odds\Methods Lab 10 Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Methods Lab 10 Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 10 Multiply Evens by Odds\Methods Lab 10 Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Methods Lab 10 Multiply Evens by Odds.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 10 Multiply Evens by Odds\Methods Lab 10 Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Methods Lab 10 Multiply Evens by Odds.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 10 Multiply Evens by Odds\Methods Lab 10 Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Methods Lab 10 Multiply Evens by Odds.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 10 Multiply Evens by Odds\Methods Lab 10 Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Methods Lab 10 Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 10 Multiply Evens by Odds\Methods Lab 10 Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Methods Lab 10 Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 10 Multiply Evens by Odds\Methods Lab 10 Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Methods Lab 10 Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 10 Multiply Evens by Odds\Methods Lab 10 Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Methods Lab 10 Multiply Evens by Odds.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 10 Multiply Evens by Odds\Methods Lab 10 Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Methods Lab 10 Multiply Evens by Odds.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 10 Multiply Evens by Odds\Methods Lab 10 Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Methods Lab 10 Multiply Evens by Odds.genruntimeconfig.cache

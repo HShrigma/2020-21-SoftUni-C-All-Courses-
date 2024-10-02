@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericThreeuple\GenericThreeuple\bin\Debug\netcoreapp3.1\GenericThreeuple.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericThreeuple\GenericThreeuple\bin\Debug\netcoreapp3.1\GenericThreeuple.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericThreeuple\GenericThreeuple\bin\Debug\netcoreapp3.1\GenericThreeuple.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericThreeuple\GenericThreeuple\bin\Debug\netcoreapp3.1\GenericThreeuple.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericThreeuple\GenericThreeuple\bin\Debug\netcoreapp3.1\GenericThreeuple.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericThreeuple\GenericThreeuple\bin\Debug\netcoreapp3.1\GenericThreeuple.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericThreeuple\GenericThreeuple\obj\Debug\netcoreapp3.1\GenericThreeuple.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericThreeuple\GenericThreeuple\obj\Debug\netcoreapp3.1\GenericThreeuple.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericThreeuple\GenericThreeuple\obj\Debug\netcoreapp3.1\GenericThreeuple.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericThreeuple\GenericThreeuple\obj\Debug\netcoreapp3.1\GenericThreeuple.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericThreeuple\GenericThreeuple\obj\Debug\netcoreapp3.1\GenericThreeuple.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericThreeuple\GenericThreeuple\obj\Debug\netcoreapp3.1\GenericThreeuple.genruntimeconfig.cache

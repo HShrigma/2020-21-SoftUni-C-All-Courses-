@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 01 Smallest Of Three\Methods Exercises 01 Smallest Of Three\bin\Debug\netcoreapp3.1\Methods Exercises 01 Smallest Of Three.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 01 Smallest Of Three\Methods Exercises 01 Smallest Of Three\bin\Debug\netcoreapp3.1\Methods Exercises 01 Smallest Of Three.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 01 Smallest Of Three\Methods Exercises 01 Smallest Of Three\bin\Debug\netcoreapp3.1\Methods Exercises 01 Smallest Of Three.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 01 Smallest Of Three\Methods Exercises 01 Smallest Of Three\bin\Debug\netcoreapp3.1\Methods Exercises 01 Smallest Of Three.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 01 Smallest Of Three\Methods Exercises 01 Smallest Of Three\bin\Debug\netcoreapp3.1\Methods Exercises 01 Smallest Of Three.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 01 Smallest Of Three\Methods Exercises 01 Smallest Of Three\bin\Debug\netcoreapp3.1\Methods Exercises 01 Smallest Of Three.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 01 Smallest Of Three\Methods Exercises 01 Smallest Of Three\obj\Debug\netcoreapp3.1\Methods Exercises 01 Smallest Of Three.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 01 Smallest Of Three\Methods Exercises 01 Smallest Of Three\obj\Debug\netcoreapp3.1\Methods Exercises 01 Smallest Of Three.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 01 Smallest Of Three\Methods Exercises 01 Smallest Of Three\obj\Debug\netcoreapp3.1\Methods Exercises 01 Smallest Of Three.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 01 Smallest Of Three\Methods Exercises 01 Smallest Of Three\obj\Debug\netcoreapp3.1\Methods Exercises 01 Smallest Of Three.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 01 Smallest Of Three\Methods Exercises 01 Smallest Of Three\obj\Debug\netcoreapp3.1\Methods Exercises 01 Smallest Of Three.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 01 Smallest Of Three\Methods Exercises 01 Smallest Of Three\obj\Debug\netcoreapp3.1\Methods Exercises 01 Smallest Of Three.genruntimeconfig.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Exercises 01 Smallest Of Three\Methods Exercises 01 Smallest Of Three\obj\Debug\netcoreapp3.1\Methods Exercises 01 Smallest Of Three.csprojAssemblyReference.cache

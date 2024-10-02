@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 6 Parking Lot\Sets and Dicts 6 Parking Lot\bin\Debug\netcoreapp3.1\Sets and Dicts 6 Parking Lot.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 6 Parking Lot\Sets and Dicts 6 Parking Lot\bin\Debug\netcoreapp3.1\Sets and Dicts 6 Parking Lot.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 6 Parking Lot\Sets and Dicts 6 Parking Lot\bin\Debug\netcoreapp3.1\Sets and Dicts 6 Parking Lot.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 6 Parking Lot\Sets and Dicts 6 Parking Lot\bin\Debug\netcoreapp3.1\Sets and Dicts 6 Parking Lot.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 6 Parking Lot\Sets and Dicts 6 Parking Lot\bin\Debug\netcoreapp3.1\Sets and Dicts 6 Parking Lot.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 6 Parking Lot\Sets and Dicts 6 Parking Lot\bin\Debug\netcoreapp3.1\Sets and Dicts 6 Parking Lot.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 6 Parking Lot\Sets and Dicts 6 Parking Lot\obj\Debug\netcoreapp3.1\Sets and Dicts 6 Parking Lot.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 6 Parking Lot\Sets and Dicts 6 Parking Lot\obj\Debug\netcoreapp3.1\Sets and Dicts 6 Parking Lot.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 6 Parking Lot\Sets and Dicts 6 Parking Lot\obj\Debug\netcoreapp3.1\Sets and Dicts 6 Parking Lot.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 6 Parking Lot\Sets and Dicts 6 Parking Lot\obj\Debug\netcoreapp3.1\Sets and Dicts 6 Parking Lot.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 6 Parking Lot\Sets and Dicts 6 Parking Lot\obj\Debug\netcoreapp3.1\Sets and Dicts 6 Parking Lot.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 6 Parking Lot\Sets and Dicts 6 Parking Lot\obj\Debug\netcoreapp3.1\Sets and Dicts 6 Parking Lot.genruntimeconfig.cache

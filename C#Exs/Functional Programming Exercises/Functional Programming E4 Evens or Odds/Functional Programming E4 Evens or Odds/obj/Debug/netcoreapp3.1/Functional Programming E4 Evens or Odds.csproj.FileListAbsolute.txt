@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E4 Evens or Odds\Functional Programming E4 Evens or Odds\bin\Debug\netcoreapp3.1\Functional Programming E4 Evens or Odds.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E4 Evens or Odds\Functional Programming E4 Evens or Odds\bin\Debug\netcoreapp3.1\Functional Programming E4 Evens or Odds.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E4 Evens or Odds\Functional Programming E4 Evens or Odds\bin\Debug\netcoreapp3.1\Functional Programming E4 Evens or Odds.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E4 Evens or Odds\Functional Programming E4 Evens or Odds\bin\Debug\netcoreapp3.1\Functional Programming E4 Evens or Odds.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E4 Evens or Odds\Functional Programming E4 Evens or Odds\bin\Debug\netcoreapp3.1\Functional Programming E4 Evens or Odds.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E4 Evens or Odds\Functional Programming E4 Evens or Odds\bin\Debug\netcoreapp3.1\Functional Programming E4 Evens or Odds.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E4 Evens or Odds\Functional Programming E4 Evens or Odds\obj\Debug\netcoreapp3.1\Functional Programming E4 Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E4 Evens or Odds\Functional Programming E4 Evens or Odds\obj\Debug\netcoreapp3.1\Functional Programming E4 Evens or Odds.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E4 Evens or Odds\Functional Programming E4 Evens or Odds\obj\Debug\netcoreapp3.1\Functional Programming E4 Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E4 Evens or Odds\Functional Programming E4 Evens or Odds\obj\Debug\netcoreapp3.1\Functional Programming E4 Evens or Odds.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E4 Evens or Odds\Functional Programming E4 Evens or Odds\obj\Debug\netcoreapp3.1\Functional Programming E4 Evens or Odds.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E4 Evens or Odds\Functional Programming E4 Evens or Odds\obj\Debug\netcoreapp3.1\Functional Programming E4 Evens or Odds.genruntimeconfig.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E4 Evens or Odds\Functional Programming E4 Evens or Odds\obj\Debug\netcoreapp3.1\Functional Programming E4 Evens or Odds.csprojAssemblyReference.cache

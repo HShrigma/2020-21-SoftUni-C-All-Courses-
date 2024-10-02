@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Adcanced Test Tinker\Adcanced Test Tinker\bin\Debug\netcoreapp3.1\Adcanced Test Tinker.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Adcanced Test Tinker\Adcanced Test Tinker\bin\Debug\netcoreapp3.1\Adcanced Test Tinker.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Adcanced Test Tinker\Adcanced Test Tinker\bin\Debug\netcoreapp3.1\Adcanced Test Tinker.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Adcanced Test Tinker\Adcanced Test Tinker\bin\Debug\netcoreapp3.1\Adcanced Test Tinker.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Adcanced Test Tinker\Adcanced Test Tinker\bin\Debug\netcoreapp3.1\Adcanced Test Tinker.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Adcanced Test Tinker\Adcanced Test Tinker\bin\Debug\netcoreapp3.1\Adcanced Test Tinker.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Adcanced Test Tinker\Adcanced Test Tinker\obj\Debug\netcoreapp3.1\Adcanced Test Tinker.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Adcanced Test Tinker\Adcanced Test Tinker\obj\Debug\netcoreapp3.1\Adcanced Test Tinker.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Adcanced Test Tinker\Adcanced Test Tinker\obj\Debug\netcoreapp3.1\Adcanced Test Tinker.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Adcanced Test Tinker\Adcanced Test Tinker\obj\Debug\netcoreapp3.1\Adcanced Test Tinker.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Adcanced Test Tinker\Adcanced Test Tinker\obj\Debug\netcoreapp3.1\Adcanced Test Tinker.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Adcanced Test Tinker\Adcanced Test Tinker\obj\Debug\netcoreapp3.1\Adcanced Test Tinker.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Adcanced Test Tinker\Adcanced Test Tinker\obj\Debug\netcoreapp3.1\Adcanced Test Tinker.genruntimeconfig.cache

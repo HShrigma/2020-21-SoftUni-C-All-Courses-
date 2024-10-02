@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E12 Trifunction\Functional Programming E12 Trifunction\bin\Debug\netcoreapp3.1\Functional Programming E12 Trifunction.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E12 Trifunction\Functional Programming E12 Trifunction\bin\Debug\netcoreapp3.1\Functional Programming E12 Trifunction.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E12 Trifunction\Functional Programming E12 Trifunction\bin\Debug\netcoreapp3.1\Functional Programming E12 Trifunction.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E12 Trifunction\Functional Programming E12 Trifunction\bin\Debug\netcoreapp3.1\Functional Programming E12 Trifunction.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E12 Trifunction\Functional Programming E12 Trifunction\bin\Debug\netcoreapp3.1\Functional Programming E12 Trifunction.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E12 Trifunction\Functional Programming E12 Trifunction\bin\Debug\netcoreapp3.1\Functional Programming E12 Trifunction.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E12 Trifunction\Functional Programming E12 Trifunction\obj\Debug\netcoreapp3.1\Functional Programming E12 Trifunction.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E12 Trifunction\Functional Programming E12 Trifunction\obj\Debug\netcoreapp3.1\Functional Programming E12 Trifunction.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E12 Trifunction\Functional Programming E12 Trifunction\obj\Debug\netcoreapp3.1\Functional Programming E12 Trifunction.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E12 Trifunction\Functional Programming E12 Trifunction\obj\Debug\netcoreapp3.1\Functional Programming E12 Trifunction.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E12 Trifunction\Functional Programming E12 Trifunction\obj\Debug\netcoreapp3.1\Functional Programming E12 Trifunction.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E12 Trifunction\Functional Programming E12 Trifunction\obj\Debug\netcoreapp3.1\Functional Programming E12 Trifunction.genruntimeconfig.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming E12 Trifunction\Functional Programming E12 Trifunction\obj\Debug\netcoreapp3.1\Functional Programming E12 Trifunction.csprojAssemblyReference.cache

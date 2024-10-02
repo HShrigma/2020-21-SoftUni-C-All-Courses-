@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Sort  Encrypt Print Array\Sort  Encrypt Print Array\bin\Debug\netcoreapp3.1\Sort  Encrypt Print Array.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Sort  Encrypt Print Array\Sort  Encrypt Print Array\bin\Debug\netcoreapp3.1\Sort  Encrypt Print Array.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Sort  Encrypt Print Array\Sort  Encrypt Print Array\bin\Debug\netcoreapp3.1\Sort  Encrypt Print Array.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Sort  Encrypt Print Array\Sort  Encrypt Print Array\bin\Debug\netcoreapp3.1\Sort  Encrypt Print Array.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Sort  Encrypt Print Array\Sort  Encrypt Print Array\bin\Debug\netcoreapp3.1\Sort  Encrypt Print Array.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Sort  Encrypt Print Array\Sort  Encrypt Print Array\bin\Debug\netcoreapp3.1\Sort  Encrypt Print Array.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Sort  Encrypt Print Array\Sort  Encrypt Print Array\obj\Debug\netcoreapp3.1\Sort  Encrypt Print Array.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Sort  Encrypt Print Array\Sort  Encrypt Print Array\obj\Debug\netcoreapp3.1\Sort  Encrypt Print Array.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Sort  Encrypt Print Array\Sort  Encrypt Print Array\obj\Debug\netcoreapp3.1\Sort  Encrypt Print Array.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Sort  Encrypt Print Array\Sort  Encrypt Print Array\obj\Debug\netcoreapp3.1\Sort  Encrypt Print Array.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Sort  Encrypt Print Array\Sort  Encrypt Print Array\obj\Debug\netcoreapp3.1\Sort  Encrypt Print Array.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Sort  Encrypt Print Array\Sort  Encrypt Print Array\obj\Debug\netcoreapp3.1\Sort  Encrypt Print Array.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Sort  Encrypt Print Array\Sort  Encrypt Print Array\obj\Debug\netcoreapp3.1\Sort  Encrypt Print Array.genruntimeconfig.cache

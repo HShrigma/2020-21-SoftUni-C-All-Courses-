@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 1 count same\Sets and Dicts 1 count same\bin\Debug\netcoreapp3.1\Sets and Dicts 1 count same.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 1 count same\Sets and Dicts 1 count same\bin\Debug\netcoreapp3.1\Sets and Dicts 1 count same.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 1 count same\Sets and Dicts 1 count same\bin\Debug\netcoreapp3.1\Sets and Dicts 1 count same.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 1 count same\Sets and Dicts 1 count same\bin\Debug\netcoreapp3.1\Sets and Dicts 1 count same.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 1 count same\Sets and Dicts 1 count same\bin\Debug\netcoreapp3.1\Sets and Dicts 1 count same.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 1 count same\Sets and Dicts 1 count same\bin\Debug\netcoreapp3.1\Sets and Dicts 1 count same.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 1 count same\Sets and Dicts 1 count same\obj\Debug\netcoreapp3.1\Sets and Dicts 1 count same.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 1 count same\Sets and Dicts 1 count same\obj\Debug\netcoreapp3.1\Sets and Dicts 1 count same.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 1 count same\Sets and Dicts 1 count same\obj\Debug\netcoreapp3.1\Sets and Dicts 1 count same.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 1 count same\Sets and Dicts 1 count same\obj\Debug\netcoreapp3.1\Sets and Dicts 1 count same.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 1 count same\Sets and Dicts 1 count same\obj\Debug\netcoreapp3.1\Sets and Dicts 1 count same.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 1 count same\Sets and Dicts 1 count same\obj\Debug\netcoreapp3.1\Sets and Dicts 1 count same.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 1 count same\Sets and Dicts 1 count same\obj\Debug\netcoreapp3.1\Sets and Dicts 1 count same.genruntimeconfig.cache

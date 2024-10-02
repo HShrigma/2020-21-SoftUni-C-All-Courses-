@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 5Unique names\Sets and Dicts 5Unique names\bin\Debug\netcoreapp3.1\Sets and Dicts 5Unique names.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 5Unique names\Sets and Dicts 5Unique names\bin\Debug\netcoreapp3.1\Sets and Dicts 5Unique names.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 5Unique names\Sets and Dicts 5Unique names\bin\Debug\netcoreapp3.1\Sets and Dicts 5Unique names.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 5Unique names\Sets and Dicts 5Unique names\bin\Debug\netcoreapp3.1\Sets and Dicts 5Unique names.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 5Unique names\Sets and Dicts 5Unique names\bin\Debug\netcoreapp3.1\Sets and Dicts 5Unique names.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 5Unique names\Sets and Dicts 5Unique names\bin\Debug\netcoreapp3.1\Sets and Dicts 5Unique names.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 5Unique names\Sets and Dicts 5Unique names\obj\Debug\netcoreapp3.1\Sets and Dicts 5Unique names.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 5Unique names\Sets and Dicts 5Unique names\obj\Debug\netcoreapp3.1\Sets and Dicts 5Unique names.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 5Unique names\Sets and Dicts 5Unique names\obj\Debug\netcoreapp3.1\Sets and Dicts 5Unique names.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 5Unique names\Sets and Dicts 5Unique names\obj\Debug\netcoreapp3.1\Sets and Dicts 5Unique names.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 5Unique names\Sets and Dicts 5Unique names\obj\Debug\netcoreapp3.1\Sets and Dicts 5Unique names.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 5Unique names\Sets and Dicts 5Unique names\obj\Debug\netcoreapp3.1\Sets and Dicts 5Unique names.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Sets and Dicts 5Unique names\Sets and Dicts 5Unique names\obj\Debug\netcoreapp3.1\Sets and Dicts 5Unique names.genruntimeconfig.cache

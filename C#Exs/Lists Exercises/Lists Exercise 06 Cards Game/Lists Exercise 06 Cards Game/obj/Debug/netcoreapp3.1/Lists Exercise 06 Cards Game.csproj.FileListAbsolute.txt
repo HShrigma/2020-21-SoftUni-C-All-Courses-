@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 06 Cards Game\Lists Exercise 06 Cards Game\bin\Debug\netcoreapp3.1\Lists Exercise 06 Cards Game.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 06 Cards Game\Lists Exercise 06 Cards Game\bin\Debug\netcoreapp3.1\Lists Exercise 06 Cards Game.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 06 Cards Game\Lists Exercise 06 Cards Game\bin\Debug\netcoreapp3.1\Lists Exercise 06 Cards Game.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 06 Cards Game\Lists Exercise 06 Cards Game\bin\Debug\netcoreapp3.1\Lists Exercise 06 Cards Game.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 06 Cards Game\Lists Exercise 06 Cards Game\bin\Debug\netcoreapp3.1\Lists Exercise 06 Cards Game.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 06 Cards Game\Lists Exercise 06 Cards Game\bin\Debug\netcoreapp3.1\Lists Exercise 06 Cards Game.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 06 Cards Game\Lists Exercise 06 Cards Game\obj\Debug\netcoreapp3.1\Lists Exercise 06 Cards Game.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 06 Cards Game\Lists Exercise 06 Cards Game\obj\Debug\netcoreapp3.1\Lists Exercise 06 Cards Game.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 06 Cards Game\Lists Exercise 06 Cards Game\obj\Debug\netcoreapp3.1\Lists Exercise 06 Cards Game.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 06 Cards Game\Lists Exercise 06 Cards Game\obj\Debug\netcoreapp3.1\Lists Exercise 06 Cards Game.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 06 Cards Game\Lists Exercise 06 Cards Game\obj\Debug\netcoreapp3.1\Lists Exercise 06 Cards Game.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 06 Cards Game\Lists Exercise 06 Cards Game\obj\Debug\netcoreapp3.1\Lists Exercise 06 Cards Game.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 06 Cards Game\Lists Exercise 06 Cards Game\obj\Debug\netcoreapp3.1\Lists Exercise 06 Cards Game.genruntimeconfig.cache

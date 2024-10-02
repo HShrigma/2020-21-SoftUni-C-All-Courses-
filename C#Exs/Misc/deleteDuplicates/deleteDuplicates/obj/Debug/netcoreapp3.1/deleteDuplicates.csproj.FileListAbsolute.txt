@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\deleteDuplicates\deleteDuplicates\bin\Debug\netcoreapp3.1\deleteDuplicates.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\deleteDuplicates\deleteDuplicates\bin\Debug\netcoreapp3.1\deleteDuplicates.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\deleteDuplicates\deleteDuplicates\bin\Debug\netcoreapp3.1\deleteDuplicates.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\deleteDuplicates\deleteDuplicates\bin\Debug\netcoreapp3.1\deleteDuplicates.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\deleteDuplicates\deleteDuplicates\bin\Debug\netcoreapp3.1\deleteDuplicates.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\deleteDuplicates\deleteDuplicates\bin\Debug\netcoreapp3.1\deleteDuplicates.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\deleteDuplicates\deleteDuplicates\obj\Debug\netcoreapp3.1\deleteDuplicates.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\deleteDuplicates\deleteDuplicates\obj\Debug\netcoreapp3.1\deleteDuplicates.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\deleteDuplicates\deleteDuplicates\obj\Debug\netcoreapp3.1\deleteDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\deleteDuplicates\deleteDuplicates\obj\Debug\netcoreapp3.1\deleteDuplicates.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\deleteDuplicates\deleteDuplicates\obj\Debug\netcoreapp3.1\deleteDuplicates.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\deleteDuplicates\deleteDuplicates\obj\Debug\netcoreapp3.1\deleteDuplicates.genruntimeconfig.cache

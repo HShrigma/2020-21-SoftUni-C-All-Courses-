@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 2 line nums\Streams,files,dirs 2 line nums\bin\Debug\netcoreapp3.1\Streams,files,dirs 2 line nums.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 2 line nums\Streams,files,dirs 2 line nums\bin\Debug\netcoreapp3.1\Streams,files,dirs 2 line nums.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 2 line nums\Streams,files,dirs 2 line nums\bin\Debug\netcoreapp3.1\Streams,files,dirs 2 line nums.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 2 line nums\Streams,files,dirs 2 line nums\bin\Debug\netcoreapp3.1\Streams,files,dirs 2 line nums.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 2 line nums\Streams,files,dirs 2 line nums\bin\Debug\netcoreapp3.1\Streams,files,dirs 2 line nums.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 2 line nums\Streams,files,dirs 2 line nums\bin\Debug\netcoreapp3.1\Streams,files,dirs 2 line nums.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 2 line nums\Streams,files,dirs 2 line nums\obj\Debug\netcoreapp3.1\Streams,files,dirs 2 line nums.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 2 line nums\Streams,files,dirs 2 line nums\obj\Debug\netcoreapp3.1\Streams,files,dirs 2 line nums.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 2 line nums\Streams,files,dirs 2 line nums\obj\Debug\netcoreapp3.1\Streams,files,dirs 2 line nums.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 2 line nums\Streams,files,dirs 2 line nums\obj\Debug\netcoreapp3.1\Streams,files,dirs 2 line nums.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 2 line nums\Streams,files,dirs 2 line nums\obj\Debug\netcoreapp3.1\Streams,files,dirs 2 line nums.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 2 line nums\Streams,files,dirs 2 line nums\obj\Debug\netcoreapp3.1\Streams,files,dirs 2 line nums.genruntimeconfig.cache

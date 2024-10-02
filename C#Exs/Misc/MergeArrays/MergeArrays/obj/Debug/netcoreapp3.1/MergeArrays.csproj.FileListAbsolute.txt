@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\MergeArrays\MergeArrays\bin\Debug\netcoreapp3.1\MergeArrays.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\MergeArrays\MergeArrays\bin\Debug\netcoreapp3.1\MergeArrays.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\MergeArrays\MergeArrays\bin\Debug\netcoreapp3.1\MergeArrays.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\MergeArrays\MergeArrays\bin\Debug\netcoreapp3.1\MergeArrays.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\MergeArrays\MergeArrays\bin\Debug\netcoreapp3.1\MergeArrays.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\MergeArrays\MergeArrays\bin\Debug\netcoreapp3.1\MergeArrays.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\MergeArrays\MergeArrays\obj\Debug\netcoreapp3.1\MergeArrays.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\MergeArrays\MergeArrays\obj\Debug\netcoreapp3.1\MergeArrays.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\MergeArrays\MergeArrays\obj\Debug\netcoreapp3.1\MergeArrays.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\MergeArrays\MergeArrays\obj\Debug\netcoreapp3.1\MergeArrays.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\MergeArrays\MergeArrays\obj\Debug\netcoreapp3.1\MergeArrays.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\MergeArrays\MergeArrays\obj\Debug\netcoreapp3.1\MergeArrays.genruntimeconfig.cache

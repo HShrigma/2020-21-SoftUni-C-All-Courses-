@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Stacks and Queues 4 Fast Food\Stacks and Queues 4 Fast Food\bin\Debug\netcoreapp3.1\Stacks and Queues 4 Fast Food.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Stacks and Queues 4 Fast Food\Stacks and Queues 4 Fast Food\bin\Debug\netcoreapp3.1\Stacks and Queues 4 Fast Food.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Stacks and Queues 4 Fast Food\Stacks and Queues 4 Fast Food\bin\Debug\netcoreapp3.1\Stacks and Queues 4 Fast Food.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Stacks and Queues 4 Fast Food\Stacks and Queues 4 Fast Food\bin\Debug\netcoreapp3.1\Stacks and Queues 4 Fast Food.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Stacks and Queues 4 Fast Food\Stacks and Queues 4 Fast Food\bin\Debug\netcoreapp3.1\Stacks and Queues 4 Fast Food.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Stacks and Queues 4 Fast Food\Stacks and Queues 4 Fast Food\bin\Debug\netcoreapp3.1\Stacks and Queues 4 Fast Food.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Stacks and Queues 4 Fast Food\Stacks and Queues 4 Fast Food\obj\Debug\netcoreapp3.1\Stacks and Queues 4 Fast Food.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Stacks and Queues 4 Fast Food\Stacks and Queues 4 Fast Food\obj\Debug\netcoreapp3.1\Stacks and Queues 4 Fast Food.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Stacks and Queues 4 Fast Food\Stacks and Queues 4 Fast Food\obj\Debug\netcoreapp3.1\Stacks and Queues 4 Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Stacks and Queues 4 Fast Food\Stacks and Queues 4 Fast Food\obj\Debug\netcoreapp3.1\Stacks and Queues 4 Fast Food.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Stacks and Queues 4 Fast Food\Stacks and Queues 4 Fast Food\obj\Debug\netcoreapp3.1\Stacks and Queues 4 Fast Food.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Stacks and Queues 4 Fast Food\Stacks and Queues 4 Fast Food\obj\Debug\netcoreapp3.1\Stacks and Queues 4 Fast Food.genruntimeconfig.cache

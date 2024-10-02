@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 07 Append Arrays\Lists Exercise 07 Append Arrays\bin\Debug\netcoreapp3.1\Lists Exercise 07 Append Arrays.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 07 Append Arrays\Lists Exercise 07 Append Arrays\bin\Debug\netcoreapp3.1\Lists Exercise 07 Append Arrays.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 07 Append Arrays\Lists Exercise 07 Append Arrays\bin\Debug\netcoreapp3.1\Lists Exercise 07 Append Arrays.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 07 Append Arrays\Lists Exercise 07 Append Arrays\bin\Debug\netcoreapp3.1\Lists Exercise 07 Append Arrays.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 07 Append Arrays\Lists Exercise 07 Append Arrays\bin\Debug\netcoreapp3.1\Lists Exercise 07 Append Arrays.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 07 Append Arrays\Lists Exercise 07 Append Arrays\bin\Debug\netcoreapp3.1\Lists Exercise 07 Append Arrays.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 07 Append Arrays\Lists Exercise 07 Append Arrays\obj\Debug\netcoreapp3.1\Lists Exercise 07 Append Arrays.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 07 Append Arrays\Lists Exercise 07 Append Arrays\obj\Debug\netcoreapp3.1\Lists Exercise 07 Append Arrays.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 07 Append Arrays\Lists Exercise 07 Append Arrays\obj\Debug\netcoreapp3.1\Lists Exercise 07 Append Arrays.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 07 Append Arrays\Lists Exercise 07 Append Arrays\obj\Debug\netcoreapp3.1\Lists Exercise 07 Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 07 Append Arrays\Lists Exercise 07 Append Arrays\obj\Debug\netcoreapp3.1\Lists Exercise 07 Append Arrays.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 07 Append Arrays\Lists Exercise 07 Append Arrays\obj\Debug\netcoreapp3.1\Lists Exercise 07 Append Arrays.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Lists Exercise 07 Append Arrays\Lists Exercise 07 Append Arrays\obj\Debug\netcoreapp3.1\Lists Exercise 07 Append Arrays.genruntimeconfig.cache

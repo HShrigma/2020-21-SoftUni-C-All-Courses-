@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomListyIterator\CustomListyIterator\bin\Debug\netcoreapp3.1\CustomListyIterator.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomListyIterator\CustomListyIterator\bin\Debug\netcoreapp3.1\CustomListyIterator.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomListyIterator\CustomListyIterator\bin\Debug\netcoreapp3.1\CustomListyIterator.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomListyIterator\CustomListyIterator\bin\Debug\netcoreapp3.1\CustomListyIterator.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomListyIterator\CustomListyIterator\bin\Debug\netcoreapp3.1\CustomListyIterator.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomListyIterator\CustomListyIterator\bin\Debug\netcoreapp3.1\CustomListyIterator.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomListyIterator\CustomListyIterator\obj\Debug\netcoreapp3.1\CustomListyIterator.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomListyIterator\CustomListyIterator\obj\Debug\netcoreapp3.1\CustomListyIterator.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomListyIterator\CustomListyIterator\obj\Debug\netcoreapp3.1\CustomListyIterator.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomListyIterator\CustomListyIterator\obj\Debug\netcoreapp3.1\CustomListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomListyIterator\CustomListyIterator\obj\Debug\netcoreapp3.1\CustomListyIterator.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomListyIterator\CustomListyIterator\obj\Debug\netcoreapp3.1\CustomListyIterator.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomListyIterator\CustomListyIterator\obj\Debug\netcoreapp3.1\CustomListyIterator.genruntimeconfig.cache

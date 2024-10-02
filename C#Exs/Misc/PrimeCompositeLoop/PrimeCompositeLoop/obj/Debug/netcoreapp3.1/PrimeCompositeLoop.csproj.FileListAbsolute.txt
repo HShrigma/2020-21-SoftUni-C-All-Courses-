@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\PrimeCompositeLoop\PrimeCompositeLoop\bin\Debug\netcoreapp3.1\PrimeCompositeLoop.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\PrimeCompositeLoop\PrimeCompositeLoop\bin\Debug\netcoreapp3.1\PrimeCompositeLoop.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\PrimeCompositeLoop\PrimeCompositeLoop\bin\Debug\netcoreapp3.1\PrimeCompositeLoop.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\PrimeCompositeLoop\PrimeCompositeLoop\bin\Debug\netcoreapp3.1\PrimeCompositeLoop.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\PrimeCompositeLoop\PrimeCompositeLoop\bin\Debug\netcoreapp3.1\PrimeCompositeLoop.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\PrimeCompositeLoop\PrimeCompositeLoop\bin\Debug\netcoreapp3.1\PrimeCompositeLoop.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\PrimeCompositeLoop\PrimeCompositeLoop\obj\Debug\netcoreapp3.1\PrimeCompositeLoop.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\PrimeCompositeLoop\PrimeCompositeLoop\obj\Debug\netcoreapp3.1\PrimeCompositeLoop.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\PrimeCompositeLoop\PrimeCompositeLoop\obj\Debug\netcoreapp3.1\PrimeCompositeLoop.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\PrimeCompositeLoop\PrimeCompositeLoop\obj\Debug\netcoreapp3.1\PrimeCompositeLoop.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\PrimeCompositeLoop\PrimeCompositeLoop\obj\Debug\netcoreapp3.1\PrimeCompositeLoop.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\PrimeCompositeLoop\PrimeCompositeLoop\obj\Debug\netcoreapp3.1\PrimeCompositeLoop.genruntimeconfig.cache

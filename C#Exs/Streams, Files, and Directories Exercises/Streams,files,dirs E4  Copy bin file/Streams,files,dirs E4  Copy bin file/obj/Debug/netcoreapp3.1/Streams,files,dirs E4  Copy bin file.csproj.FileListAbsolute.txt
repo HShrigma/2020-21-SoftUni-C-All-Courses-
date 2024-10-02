@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E4  Copy bin file\Streams,files,dirs E4  Copy bin file\bin\Debug\netcoreapp3.1\Streams,files,dirs E4  Copy bin file.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E4  Copy bin file\Streams,files,dirs E4  Copy bin file\bin\Debug\netcoreapp3.1\Streams,files,dirs E4  Copy bin file.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E4  Copy bin file\Streams,files,dirs E4  Copy bin file\bin\Debug\netcoreapp3.1\Streams,files,dirs E4  Copy bin file.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E4  Copy bin file\Streams,files,dirs E4  Copy bin file\bin\Debug\netcoreapp3.1\Streams,files,dirs E4  Copy bin file.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E4  Copy bin file\Streams,files,dirs E4  Copy bin file\bin\Debug\netcoreapp3.1\Streams,files,dirs E4  Copy bin file.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E4  Copy bin file\Streams,files,dirs E4  Copy bin file\bin\Debug\netcoreapp3.1\Streams,files,dirs E4  Copy bin file.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E4  Copy bin file\Streams,files,dirs E4  Copy bin file\obj\Debug\netcoreapp3.1\Streams,files,dirs E4  Copy bin file.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E4  Copy bin file\Streams,files,dirs E4  Copy bin file\obj\Debug\netcoreapp3.1\Streams,files,dirs E4  Copy bin file.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E4  Copy bin file\Streams,files,dirs E4  Copy bin file\obj\Debug\netcoreapp3.1\Streams,files,dirs E4  Copy bin file.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E4  Copy bin file\Streams,files,dirs E4  Copy bin file\obj\Debug\netcoreapp3.1\Streams,files,dirs E4  Copy bin file.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E4  Copy bin file\Streams,files,dirs E4  Copy bin file\obj\Debug\netcoreapp3.1\Streams,files,dirs E4  Copy bin file.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E4  Copy bin file\Streams,files,dirs E4  Copy bin file\obj\Debug\netcoreapp3.1\Streams,files,dirs E4  Copy bin file.genruntimeconfig.cache

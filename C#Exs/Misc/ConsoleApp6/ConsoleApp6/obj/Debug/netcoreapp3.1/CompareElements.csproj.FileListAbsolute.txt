@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\CompareElements.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\CompareElements.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\CompareElements.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\CompareElements.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\CompareElements.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\CompareElements.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\CompareElements.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\CompareElements.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\CompareElements.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\CompareElements.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\CompareElements.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\CompareElements.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\CompareElements.genruntimeconfig.cache

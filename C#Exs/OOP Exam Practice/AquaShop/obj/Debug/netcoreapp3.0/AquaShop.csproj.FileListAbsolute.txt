@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\OOP Exam Practice\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\OOP Exam Practice\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\OOP Exam Practice\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\OOP Exam Practice\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\OOP Exam Practice\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\OOP Exam Practice\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\OOP Exam Practice\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.AssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\OOP Exam Practice\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\OOP Exam Practice\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\OOP Exam Practice\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\OOP Exam Practice\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\OOP Exam Practice\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\OOP Exam Practice\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache

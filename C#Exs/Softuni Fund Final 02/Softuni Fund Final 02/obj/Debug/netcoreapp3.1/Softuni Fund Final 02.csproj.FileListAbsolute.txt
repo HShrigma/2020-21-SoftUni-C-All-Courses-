@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Fund Final 02\Softuni Fund Final 02\bin\Debug\netcoreapp3.1\Softuni Fund Final 02.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Fund Final 02\Softuni Fund Final 02\bin\Debug\netcoreapp3.1\Softuni Fund Final 02.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Fund Final 02\Softuni Fund Final 02\bin\Debug\netcoreapp3.1\Softuni Fund Final 02.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Fund Final 02\Softuni Fund Final 02\bin\Debug\netcoreapp3.1\Softuni Fund Final 02.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Fund Final 02\Softuni Fund Final 02\bin\Debug\netcoreapp3.1\Softuni Fund Final 02.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Fund Final 02\Softuni Fund Final 02\bin\Debug\netcoreapp3.1\Softuni Fund Final 02.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Fund Final 02\Softuni Fund Final 02\obj\Debug\netcoreapp3.1\Softuni Fund Final 02.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Fund Final 02\Softuni Fund Final 02\obj\Debug\netcoreapp3.1\Softuni Fund Final 02.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Fund Final 02\Softuni Fund Final 02\obj\Debug\netcoreapp3.1\Softuni Fund Final 02.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Fund Final 02\Softuni Fund Final 02\obj\Debug\netcoreapp3.1\Softuni Fund Final 02.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Fund Final 02\Softuni Fund Final 02\obj\Debug\netcoreapp3.1\Softuni Fund Final 02.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Fund Final 02\Softuni Fund Final 02\obj\Debug\netcoreapp3.1\Softuni Fund Final 02.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Fund Final 02\Softuni Fund Final 02\obj\Debug\netcoreapp3.1\Softuni Fund Final 02.genruntimeconfig.cache

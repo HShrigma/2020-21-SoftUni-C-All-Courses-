@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\MethodsLab 05 Orders\MethodsLab 05 Orders\bin\Debug\netcoreapp3.1\MethodsLab 05 Orders.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\MethodsLab 05 Orders\MethodsLab 05 Orders\bin\Debug\netcoreapp3.1\MethodsLab 05 Orders.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\MethodsLab 05 Orders\MethodsLab 05 Orders\bin\Debug\netcoreapp3.1\MethodsLab 05 Orders.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\MethodsLab 05 Orders\MethodsLab 05 Orders\bin\Debug\netcoreapp3.1\MethodsLab 05 Orders.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\MethodsLab 05 Orders\MethodsLab 05 Orders\bin\Debug\netcoreapp3.1\MethodsLab 05 Orders.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\MethodsLab 05 Orders\MethodsLab 05 Orders\bin\Debug\netcoreapp3.1\MethodsLab 05 Orders.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\MethodsLab 05 Orders\MethodsLab 05 Orders\obj\Debug\netcoreapp3.1\MethodsLab 05 Orders.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\MethodsLab 05 Orders\MethodsLab 05 Orders\obj\Debug\netcoreapp3.1\MethodsLab 05 Orders.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\MethodsLab 05 Orders\MethodsLab 05 Orders\obj\Debug\netcoreapp3.1\MethodsLab 05 Orders.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\MethodsLab 05 Orders\MethodsLab 05 Orders\obj\Debug\netcoreapp3.1\MethodsLab 05 Orders.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\MethodsLab 05 Orders\MethodsLab 05 Orders\obj\Debug\netcoreapp3.1\MethodsLab 05 Orders.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\MethodsLab 05 Orders\MethodsLab 05 Orders\obj\Debug\netcoreapp3.1\MethodsLab 05 Orders.genruntimeconfig.cache

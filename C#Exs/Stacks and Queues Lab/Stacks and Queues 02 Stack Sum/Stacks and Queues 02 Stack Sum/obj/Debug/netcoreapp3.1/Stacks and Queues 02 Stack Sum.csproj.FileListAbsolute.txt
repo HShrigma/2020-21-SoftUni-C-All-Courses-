@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Stacks and Queues 02 Stack Sum\Stacks and Queues 02 Stack Sum\bin\Debug\netcoreapp3.1\Stacks and Queues 02 Stack Sum.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Stacks and Queues 02 Stack Sum\Stacks and Queues 02 Stack Sum\bin\Debug\netcoreapp3.1\Stacks and Queues 02 Stack Sum.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Stacks and Queues 02 Stack Sum\Stacks and Queues 02 Stack Sum\bin\Debug\netcoreapp3.1\Stacks and Queues 02 Stack Sum.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Stacks and Queues 02 Stack Sum\Stacks and Queues 02 Stack Sum\bin\Debug\netcoreapp3.1\Stacks and Queues 02 Stack Sum.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Stacks and Queues 02 Stack Sum\Stacks and Queues 02 Stack Sum\bin\Debug\netcoreapp3.1\Stacks and Queues 02 Stack Sum.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Stacks and Queues 02 Stack Sum\Stacks and Queues 02 Stack Sum\bin\Debug\netcoreapp3.1\Stacks and Queues 02 Stack Sum.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Stacks and Queues 02 Stack Sum\Stacks and Queues 02 Stack Sum\obj\Debug\netcoreapp3.1\Stacks and Queues 02 Stack Sum.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Stacks and Queues 02 Stack Sum\Stacks and Queues 02 Stack Sum\obj\Debug\netcoreapp3.1\Stacks and Queues 02 Stack Sum.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Stacks and Queues 02 Stack Sum\Stacks and Queues 02 Stack Sum\obj\Debug\netcoreapp3.1\Stacks and Queues 02 Stack Sum.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Stacks and Queues 02 Stack Sum\Stacks and Queues 02 Stack Sum\obj\Debug\netcoreapp3.1\Stacks and Queues 02 Stack Sum.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Stacks and Queues 02 Stack Sum\Stacks and Queues 02 Stack Sum\obj\Debug\netcoreapp3.1\Stacks and Queues 02 Stack Sum.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Stacks and Queues 02 Stack Sum\Stacks and Queues 02 Stack Sum\obj\Debug\netcoreapp3.1\Stacks and Queues 02 Stack Sum.genruntimeconfig.cache

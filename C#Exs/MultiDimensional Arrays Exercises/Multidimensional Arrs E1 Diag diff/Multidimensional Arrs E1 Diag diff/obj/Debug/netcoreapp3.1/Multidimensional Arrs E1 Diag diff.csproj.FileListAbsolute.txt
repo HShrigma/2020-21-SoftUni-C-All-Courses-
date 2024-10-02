@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E1 Diag diff\Multidimensional Arrs E1 Diag diff\bin\Debug\netcoreapp3.1\Multidimensional Arrs E1 Diag diff.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E1 Diag diff\Multidimensional Arrs E1 Diag diff\bin\Debug\netcoreapp3.1\Multidimensional Arrs E1 Diag diff.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E1 Diag diff\Multidimensional Arrs E1 Diag diff\bin\Debug\netcoreapp3.1\Multidimensional Arrs E1 Diag diff.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E1 Diag diff\Multidimensional Arrs E1 Diag diff\bin\Debug\netcoreapp3.1\Multidimensional Arrs E1 Diag diff.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E1 Diag diff\Multidimensional Arrs E1 Diag diff\bin\Debug\netcoreapp3.1\Multidimensional Arrs E1 Diag diff.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E1 Diag diff\Multidimensional Arrs E1 Diag diff\bin\Debug\netcoreapp3.1\Multidimensional Arrs E1 Diag diff.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E1 Diag diff\Multidimensional Arrs E1 Diag diff\obj\Debug\netcoreapp3.1\Multidimensional Arrs E1 Diag diff.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E1 Diag diff\Multidimensional Arrs E1 Diag diff\obj\Debug\netcoreapp3.1\Multidimensional Arrs E1 Diag diff.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E1 Diag diff\Multidimensional Arrs E1 Diag diff\obj\Debug\netcoreapp3.1\Multidimensional Arrs E1 Diag diff.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E1 Diag diff\Multidimensional Arrs E1 Diag diff\obj\Debug\netcoreapp3.1\Multidimensional Arrs E1 Diag diff.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E1 Diag diff\Multidimensional Arrs E1 Diag diff\obj\Debug\netcoreapp3.1\Multidimensional Arrs E1 Diag diff.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E1 Diag diff\Multidimensional Arrs E1 Diag diff\obj\Debug\netcoreapp3.1\Multidimensional Arrs E1 Diag diff.genruntimeconfig.cache

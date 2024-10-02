@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E6 Zip and Extract\Streams,files,dirs E6 Zip and Extract\bin\Debug\netcoreapp3.1\Streams,files,dirs E6 Zip and Extract.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E6 Zip and Extract\Streams,files,dirs E6 Zip and Extract\bin\Debug\netcoreapp3.1\Streams,files,dirs E6 Zip and Extract.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E6 Zip and Extract\Streams,files,dirs E6 Zip and Extract\bin\Debug\netcoreapp3.1\Streams,files,dirs E6 Zip and Extract.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E6 Zip and Extract\Streams,files,dirs E6 Zip and Extract\bin\Debug\netcoreapp3.1\Streams,files,dirs E6 Zip and Extract.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E6 Zip and Extract\Streams,files,dirs E6 Zip and Extract\bin\Debug\netcoreapp3.1\Streams,files,dirs E6 Zip and Extract.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E6 Zip and Extract\Streams,files,dirs E6 Zip and Extract\bin\Debug\netcoreapp3.1\Streams,files,dirs E6 Zip and Extract.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E6 Zip and Extract\Streams,files,dirs E6 Zip and Extract\obj\Debug\netcoreapp3.1\Streams,files,dirs E6 Zip and Extract.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E6 Zip and Extract\Streams,files,dirs E6 Zip and Extract\obj\Debug\netcoreapp3.1\Streams,files,dirs E6 Zip and Extract.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E6 Zip and Extract\Streams,files,dirs E6 Zip and Extract\obj\Debug\netcoreapp3.1\Streams,files,dirs E6 Zip and Extract.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E6 Zip and Extract\Streams,files,dirs E6 Zip and Extract\obj\Debug\netcoreapp3.1\Streams,files,dirs E6 Zip and Extract.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E6 Zip and Extract\Streams,files,dirs E6 Zip and Extract\obj\Debug\netcoreapp3.1\Streams,files,dirs E6 Zip and Extract.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E6 Zip and Extract\Streams,files,dirs E6 Zip and Extract\obj\Debug\netcoreapp3.1\Streams,files,dirs E6 Zip and Extract.genruntimeconfig.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E6 Zip and Extract\Streams,files,dirs E6 Zip and Extract\obj\Debug\netcoreapp3.1\Streams,files,dirs E6 Zip and Extract.csprojAssemblyReference.cache

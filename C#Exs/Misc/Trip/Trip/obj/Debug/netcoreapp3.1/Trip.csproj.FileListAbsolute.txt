@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Trip\Trip\bin\Debug\netcoreapp3.1\Trip.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Trip\Trip\bin\Debug\netcoreapp3.1\Trip.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Trip\Trip\bin\Debug\netcoreapp3.1\Trip.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Trip\Trip\bin\Debug\netcoreapp3.1\Trip.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Trip\Trip\bin\Debug\netcoreapp3.1\Trip.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Trip\Trip\bin\Debug\netcoreapp3.1\Trip.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Trip\Trip\obj\Debug\netcoreapp3.1\Trip.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Trip\Trip\obj\Debug\netcoreapp3.1\Trip.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Trip\Trip\obj\Debug\netcoreapp3.1\Trip.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Trip\Trip\obj\Debug\netcoreapp3.1\Trip.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Trip\Trip\obj\Debug\netcoreapp3.1\Trip.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Trip\Trip\obj\Debug\netcoreapp3.1\Trip.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Trip\Trip\obj\Debug\netcoreapp3.1\Trip.genruntimeconfig.cache

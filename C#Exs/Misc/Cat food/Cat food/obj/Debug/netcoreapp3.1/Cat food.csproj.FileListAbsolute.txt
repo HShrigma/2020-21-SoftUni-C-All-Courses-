@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Cat food\Cat food\bin\Debug\netcoreapp3.1\Cat food.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Cat food\Cat food\bin\Debug\netcoreapp3.1\Cat food.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Cat food\Cat food\bin\Debug\netcoreapp3.1\Cat food.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Cat food\Cat food\bin\Debug\netcoreapp3.1\Cat food.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Cat food\Cat food\bin\Debug\netcoreapp3.1\Cat food.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Cat food\Cat food\bin\Debug\netcoreapp3.1\Cat food.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Cat food\Cat food\obj\Debug\netcoreapp3.1\Cat food.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Cat food\Cat food\obj\Debug\netcoreapp3.1\Cat food.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Cat food\Cat food\obj\Debug\netcoreapp3.1\Cat food.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Cat food\Cat food\obj\Debug\netcoreapp3.1\Cat food.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Cat food\Cat food\obj\Debug\netcoreapp3.1\Cat food.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Cat food\Cat food\obj\Debug\netcoreapp3.1\Cat food.genruntimeconfig.cache

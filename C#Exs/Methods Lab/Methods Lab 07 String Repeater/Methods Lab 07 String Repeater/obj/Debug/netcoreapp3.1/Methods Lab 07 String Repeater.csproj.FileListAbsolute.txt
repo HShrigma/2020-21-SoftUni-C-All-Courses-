@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 07 String Repeater\Methods Lab 07 String Repeater\bin\Debug\netcoreapp3.1\Methods Lab 07 String Repeater.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 07 String Repeater\Methods Lab 07 String Repeater\bin\Debug\netcoreapp3.1\Methods Lab 07 String Repeater.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 07 String Repeater\Methods Lab 07 String Repeater\bin\Debug\netcoreapp3.1\Methods Lab 07 String Repeater.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 07 String Repeater\Methods Lab 07 String Repeater\bin\Debug\netcoreapp3.1\Methods Lab 07 String Repeater.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 07 String Repeater\Methods Lab 07 String Repeater\bin\Debug\netcoreapp3.1\Methods Lab 07 String Repeater.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 07 String Repeater\Methods Lab 07 String Repeater\bin\Debug\netcoreapp3.1\Methods Lab 07 String Repeater.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 07 String Repeater\Methods Lab 07 String Repeater\obj\Debug\netcoreapp3.1\Methods Lab 07 String Repeater.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 07 String Repeater\Methods Lab 07 String Repeater\obj\Debug\netcoreapp3.1\Methods Lab 07 String Repeater.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 07 String Repeater\Methods Lab 07 String Repeater\obj\Debug\netcoreapp3.1\Methods Lab 07 String Repeater.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 07 String Repeater\Methods Lab 07 String Repeater\obj\Debug\netcoreapp3.1\Methods Lab 07 String Repeater.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 07 String Repeater\Methods Lab 07 String Repeater\obj\Debug\netcoreapp3.1\Methods Lab 07 String Repeater.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 07 String Repeater\Methods Lab 07 String Repeater\obj\Debug\netcoreapp3.1\Methods Lab 07 String Repeater.genruntimeconfig.cache

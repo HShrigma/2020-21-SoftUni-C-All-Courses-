@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming 5 Filter by Age\Functional Programming 5 Filter by Age\bin\Debug\netcoreapp3.1\Functional Programming 5 Filter by Age.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming 5 Filter by Age\Functional Programming 5 Filter by Age\bin\Debug\netcoreapp3.1\Functional Programming 5 Filter by Age.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming 5 Filter by Age\Functional Programming 5 Filter by Age\bin\Debug\netcoreapp3.1\Functional Programming 5 Filter by Age.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming 5 Filter by Age\Functional Programming 5 Filter by Age\bin\Debug\netcoreapp3.1\Functional Programming 5 Filter by Age.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming 5 Filter by Age\Functional Programming 5 Filter by Age\bin\Debug\netcoreapp3.1\Functional Programming 5 Filter by Age.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming 5 Filter by Age\Functional Programming 5 Filter by Age\bin\Debug\netcoreapp3.1\Functional Programming 5 Filter by Age.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming 5 Filter by Age\Functional Programming 5 Filter by Age\obj\Debug\netcoreapp3.1\Functional Programming 5 Filter by Age.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming 5 Filter by Age\Functional Programming 5 Filter by Age\obj\Debug\netcoreapp3.1\Functional Programming 5 Filter by Age.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming 5 Filter by Age\Functional Programming 5 Filter by Age\obj\Debug\netcoreapp3.1\Functional Programming 5 Filter by Age.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming 5 Filter by Age\Functional Programming 5 Filter by Age\obj\Debug\netcoreapp3.1\Functional Programming 5 Filter by Age.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming 5 Filter by Age\Functional Programming 5 Filter by Age\obj\Debug\netcoreapp3.1\Functional Programming 5 Filter by Age.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming 5 Filter by Age\Functional Programming 5 Filter by Age\obj\Debug\netcoreapp3.1\Functional Programming 5 Filter by Age.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Functional Programming 5 Filter by Age\Functional Programming 5 Filter by Age\obj\Debug\netcoreapp3.1\Functional Programming 5 Filter by Age.genruntimeconfig.cache

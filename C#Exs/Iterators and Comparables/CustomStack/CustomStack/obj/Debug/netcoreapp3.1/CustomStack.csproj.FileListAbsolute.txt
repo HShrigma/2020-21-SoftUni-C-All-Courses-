@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomStack\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomStack\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomStack\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomStack\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomStack\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomStack\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomStack\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomStack\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomStack\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomStack\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomStack\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Iterators and Comparables\CustomStack\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\SoftUniExercises\SoftUniExercises\bin\Debug\netcoreapp3.1\SoftUniExercises.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\SoftUniExercises\SoftUniExercises\bin\Debug\netcoreapp3.1\SoftUniExercises.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\SoftUniExercises\SoftUniExercises\bin\Debug\netcoreapp3.1\SoftUniExercises.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\SoftUniExercises\SoftUniExercises\bin\Debug\netcoreapp3.1\SoftUniExercises.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\SoftUniExercises\SoftUniExercises\bin\Debug\netcoreapp3.1\SoftUniExercises.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\SoftUniExercises\SoftUniExercises\bin\Debug\netcoreapp3.1\SoftUniExercises.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\SoftUniExercises\SoftUniExercises\obj\Debug\netcoreapp3.1\SoftUniExercises.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\SoftUniExercises\SoftUniExercises\obj\Debug\netcoreapp3.1\SoftUniExercises.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\SoftUniExercises\SoftUniExercises\obj\Debug\netcoreapp3.1\SoftUniExercises.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\SoftUniExercises\SoftUniExercises\obj\Debug\netcoreapp3.1\SoftUniExercises.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\SoftUniExercises\SoftUniExercises\obj\Debug\netcoreapp3.1\SoftUniExercises.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\SoftUniExercises\SoftUniExercises\obj\Debug\netcoreapp3.1\SoftUniExercises.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\SoftUniExercises\SoftUniExercises\obj\Debug\netcoreapp3.1\SoftUniExercises.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 1 odd lines\Streams,files,dirs 1 odd lines\bin\Debug\netcoreapp3.1\Streams,files,dirs 1 odd lines.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 1 odd lines\Streams,files,dirs 1 odd lines\bin\Debug\netcoreapp3.1\Streams,files,dirs 1 odd lines.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 1 odd lines\Streams,files,dirs 1 odd lines\bin\Debug\netcoreapp3.1\Streams,files,dirs 1 odd lines.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 1 odd lines\Streams,files,dirs 1 odd lines\bin\Debug\netcoreapp3.1\Streams,files,dirs 1 odd lines.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 1 odd lines\Streams,files,dirs 1 odd lines\bin\Debug\netcoreapp3.1\Streams,files,dirs 1 odd lines.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 1 odd lines\Streams,files,dirs 1 odd lines\bin\Debug\netcoreapp3.1\Streams,files,dirs 1 odd lines.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 1 odd lines\Streams,files,dirs 1 odd lines\obj\Debug\netcoreapp3.1\Streams,files,dirs 1 odd lines.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 1 odd lines\Streams,files,dirs 1 odd lines\obj\Debug\netcoreapp3.1\Streams,files,dirs 1 odd lines.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 1 odd lines\Streams,files,dirs 1 odd lines\obj\Debug\netcoreapp3.1\Streams,files,dirs 1 odd lines.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 1 odd lines\Streams,files,dirs 1 odd lines\obj\Debug\netcoreapp3.1\Streams,files,dirs 1 odd lines.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 1 odd lines\Streams,files,dirs 1 odd lines\obj\Debug\netcoreapp3.1\Streams,files,dirs 1 odd lines.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 1 odd lines\Streams,files,dirs 1 odd lines\obj\Debug\netcoreapp3.1\Streams,files,dirs 1 odd lines.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 1 odd lines\Streams,files,dirs 1 odd lines\obj\Debug\netcoreapp3.1\Streams,files,dirs 1 odd lines.genruntimeconfig.cache

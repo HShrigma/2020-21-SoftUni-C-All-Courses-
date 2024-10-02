@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lists Exercise 06 Cards Game/1.0.0": {
+        "runtime": {
+          "Lists Exercise 06 Cards Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lists Exercise 06 Cards Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Fund Mid Exam 01\CSharp Fund Mid Exam 01\bin\Debug\netcoreapp3.1\CSharp Fund Mid Exam 01.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Fund Mid Exam 01\CSharp Fund Mid Exam 01\bin\Debug\netcoreapp3.1\CSharp Fund Mid Exam 01.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Fund Mid Exam 01\CSharp Fund Mid Exam 01\bin\Debug\netcoreapp3.1\CSharp Fund Mid Exam 01.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Fund Mid Exam 01\CSharp Fund Mid Exam 01\bin\Debug\netcoreapp3.1\CSharp Fund Mid Exam 01.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Fund Mid Exam 01\CSharp Fund Mid Exam 01\bin\Debug\netcoreapp3.1\CSharp Fund Mid Exam 01.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Fund Mid Exam 01\CSharp Fund Mid Exam 01\bin\Debug\netcoreapp3.1\CSharp Fund Mid Exam 01.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Fund Mid Exam 01\CSharp Fund Mid Exam 01\obj\Debug\netcoreapp3.1\CSharp Fund Mid Exam 01.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Fund Mid Exam 01\CSharp Fund Mid Exam 01\obj\Debug\netcoreapp3.1\CSharp Fund Mid Exam 01.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Fund Mid Exam 01\CSharp Fund Mid Exam 01\obj\Debug\netcoreapp3.1\CSharp Fund Mid Exam 01.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Fund Mid Exam 01\CSharp Fund Mid Exam 01\obj\Debug\netcoreapp3.1\CSharp Fund Mid Exam 01.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Fund Mid Exam 01\CSharp Fund Mid Exam 01\obj\Debug\netcoreapp3.1\CSharp Fund Mid Exam 01.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Fund Mid Exam 01\CSharp Fund Mid Exam 01\obj\Debug\netcoreapp3.1\CSharp Fund Mid Exam 01.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Fund Mid Exam 01\CSharp Fund Mid Exam 01\obj\Debug\netcoreapp3.1\CSharp Fund Mid Exam 01.genruntimeconfig.cache

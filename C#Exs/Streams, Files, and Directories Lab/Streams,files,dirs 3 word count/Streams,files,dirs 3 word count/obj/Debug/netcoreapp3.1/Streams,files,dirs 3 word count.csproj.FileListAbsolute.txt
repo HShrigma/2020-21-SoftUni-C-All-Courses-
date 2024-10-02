@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 3 word count\Streams,files,dirs 3 word count\bin\Debug\netcoreapp3.1\Streams,files,dirs 3 word count.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 3 word count\Streams,files,dirs 3 word count\bin\Debug\netcoreapp3.1\Streams,files,dirs 3 word count.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 3 word count\Streams,files,dirs 3 word count\bin\Debug\netcoreapp3.1\Streams,files,dirs 3 word count.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 3 word count\Streams,files,dirs 3 word count\bin\Debug\netcoreapp3.1\Streams,files,dirs 3 word count.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 3 word count\Streams,files,dirs 3 word count\bin\Debug\netcoreapp3.1\Streams,files,dirs 3 word count.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 3 word count\Streams,files,dirs 3 word count\bin\Debug\netcoreapp3.1\Streams,files,dirs 3 word count.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 3 word count\Streams,files,dirs 3 word count\obj\Debug\netcoreapp3.1\Streams,files,dirs 3 word count.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 3 word count\Streams,files,dirs 3 word count\obj\Debug\netcoreapp3.1\Streams,files,dirs 3 word count.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 3 word count\Streams,files,dirs 3 word count\obj\Debug\netcoreapp3.1\Streams,files,dirs 3 word count.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 3 word count\Streams,files,dirs 3 word count\obj\Debug\netcoreapp3.1\Streams,files,dirs 3 word count.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 3 word count\Streams,files,dirs 3 word count\obj\Debug\netcoreapp3.1\Streams,files,dirs 3 word count.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 3 word count\Streams,files,dirs 3 word count\obj\Debug\netcoreapp3.1\Streams,files,dirs 3 word count.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 3 word count\Streams,files,dirs 3 word count\obj\Debug\netcoreapp3.1\Streams,files,dirs 3 word count.genruntimeconfig.cache

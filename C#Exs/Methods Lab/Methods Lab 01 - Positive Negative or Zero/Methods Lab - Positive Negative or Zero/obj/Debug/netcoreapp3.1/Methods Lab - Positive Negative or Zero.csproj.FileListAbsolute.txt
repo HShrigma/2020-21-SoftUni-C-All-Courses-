@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab - Positive Negative or Zero\Methods Lab - Positive Negative or Zero\bin\Debug\netcoreapp3.1\Methods Lab - Positive Negative or Zero.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab - Positive Negative or Zero\Methods Lab - Positive Negative or Zero\bin\Debug\netcoreapp3.1\Methods Lab - Positive Negative or Zero.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab - Positive Negative or Zero\Methods Lab - Positive Negative or Zero\bin\Debug\netcoreapp3.1\Methods Lab - Positive Negative or Zero.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab - Positive Negative or Zero\Methods Lab - Positive Negative or Zero\bin\Debug\netcoreapp3.1\Methods Lab - Positive Negative or Zero.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab - Positive Negative or Zero\Methods Lab - Positive Negative or Zero\bin\Debug\netcoreapp3.1\Methods Lab - Positive Negative or Zero.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab - Positive Negative or Zero\Methods Lab - Positive Negative or Zero\bin\Debug\netcoreapp3.1\Methods Lab - Positive Negative or Zero.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab - Positive Negative or Zero\Methods Lab - Positive Negative or Zero\obj\Debug\netcoreapp3.1\Methods Lab - Positive Negative or Zero.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab - Positive Negative or Zero\Methods Lab - Positive Negative or Zero\obj\Debug\netcoreapp3.1\Methods Lab - Positive Negative or Zero.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab - Positive Negative or Zero\Methods Lab - Positive Negative or Zero\obj\Debug\netcoreapp3.1\Methods Lab - Positive Negative or Zero.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab - Positive Negative or Zero\Methods Lab - Positive Negative or Zero\obj\Debug\netcoreapp3.1\Methods Lab - Positive Negative or Zero.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab - Positive Negative or Zero\Methods Lab - Positive Negative or Zero\obj\Debug\netcoreapp3.1\Methods Lab - Positive Negative or Zero.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab - Positive Negative or Zero\Methods Lab - Positive Negative or Zero\obj\Debug\netcoreapp3.1\Methods Lab - Positive Negative or Zero.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab - Positive Negative or Zero\Methods Lab - Positive Negative or Zero\obj\Debug\netcoreapp3.1\Methods Lab - Positive Negative or Zero.genruntimeconfig.cache

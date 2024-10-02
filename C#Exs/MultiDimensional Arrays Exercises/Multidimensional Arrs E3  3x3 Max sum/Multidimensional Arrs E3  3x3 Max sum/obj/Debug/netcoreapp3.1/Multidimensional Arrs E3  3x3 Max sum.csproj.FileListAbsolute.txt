@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E3  3x3 Max sum\Multidimensional Arrs E3  3x3 Max sum\bin\Debug\netcoreapp3.1\Multidimensional Arrs E3  3x3 Max sum.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E3  3x3 Max sum\Multidimensional Arrs E3  3x3 Max sum\bin\Debug\netcoreapp3.1\Multidimensional Arrs E3  3x3 Max sum.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E3  3x3 Max sum\Multidimensional Arrs E3  3x3 Max sum\bin\Debug\netcoreapp3.1\Multidimensional Arrs E3  3x3 Max sum.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E3  3x3 Max sum\Multidimensional Arrs E3  3x3 Max sum\bin\Debug\netcoreapp3.1\Multidimensional Arrs E3  3x3 Max sum.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E3  3x3 Max sum\Multidimensional Arrs E3  3x3 Max sum\bin\Debug\netcoreapp3.1\Multidimensional Arrs E3  3x3 Max sum.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E3  3x3 Max sum\Multidimensional Arrs E3  3x3 Max sum\bin\Debug\netcoreapp3.1\Multidimensional Arrs E3  3x3 Max sum.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E3  3x3 Max sum\Multidimensional Arrs E3  3x3 Max sum\obj\Debug\netcoreapp3.1\Multidimensional Arrs E3  3x3 Max sum.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E3  3x3 Max sum\Multidimensional Arrs E3  3x3 Max sum\obj\Debug\netcoreapp3.1\Multidimensional Arrs E3  3x3 Max sum.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E3  3x3 Max sum\Multidimensional Arrs E3  3x3 Max sum\obj\Debug\netcoreapp3.1\Multidimensional Arrs E3  3x3 Max sum.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E3  3x3 Max sum\Multidimensional Arrs E3  3x3 Max sum\obj\Debug\netcoreapp3.1\Multidimensional Arrs E3  3x3 Max sum.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E3  3x3 Max sum\Multidimensional Arrs E3  3x3 Max sum\obj\Debug\netcoreapp3.1\Multidimensional Arrs E3  3x3 Max sum.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Multidimensional Arrs E3  3x3 Max sum\Multidimensional Arrs E3  3x3 Max sum\obj\Debug\netcoreapp3.1\Multidimensional Arrs E3  3x3 Max sum.genruntimeconfig.cache

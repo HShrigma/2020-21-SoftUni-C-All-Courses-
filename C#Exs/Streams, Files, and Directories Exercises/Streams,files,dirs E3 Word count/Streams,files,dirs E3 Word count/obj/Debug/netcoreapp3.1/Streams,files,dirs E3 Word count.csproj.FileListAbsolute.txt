@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E3 Word count\Streams,files,dirs E3 Word count\bin\Debug\netcoreapp3.1\Streams,files,dirs E3 Word count.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E3 Word count\Streams,files,dirs E3 Word count\bin\Debug\netcoreapp3.1\Streams,files,dirs E3 Word count.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E3 Word count\Streams,files,dirs E3 Word count\bin\Debug\netcoreapp3.1\Streams,files,dirs E3 Word count.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E3 Word count\Streams,files,dirs E3 Word count\bin\Debug\netcoreapp3.1\Streams,files,dirs E3 Word count.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E3 Word count\Streams,files,dirs E3 Word count\bin\Debug\netcoreapp3.1\Streams,files,dirs E3 Word count.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E3 Word count\Streams,files,dirs E3 Word count\bin\Debug\netcoreapp3.1\Streams,files,dirs E3 Word count.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E3 Word count\Streams,files,dirs E3 Word count\obj\Debug\netcoreapp3.1\Streams,files,dirs E3 Word count.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E3 Word count\Streams,files,dirs E3 Word count\obj\Debug\netcoreapp3.1\Streams,files,dirs E3 Word count.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E3 Word count\Streams,files,dirs E3 Word count\obj\Debug\netcoreapp3.1\Streams,files,dirs E3 Word count.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E3 Word count\Streams,files,dirs E3 Word count\obj\Debug\netcoreapp3.1\Streams,files,dirs E3 Word count.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E3 Word count\Streams,files,dirs E3 Word count\obj\Debug\netcoreapp3.1\Streams,files,dirs E3 Word count.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E3 Word count\Streams,files,dirs E3 Word count\obj\Debug\netcoreapp3.1\Streams,files,dirs E3 Word count.genruntimeconfig.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs E3 Word count\Streams,files,dirs E3 Word count\obj\Debug\netcoreapp3.1\Streams,files,dirs E3 Word count.csprojAssemblyReference.cache

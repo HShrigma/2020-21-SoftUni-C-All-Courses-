@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objects and Classes Lab 01 Factorial", "Objects and Classes Lab 01 Factorial\Objects and Classes Lab 01 Factorial.csproj", "{A9773C8C-1149-4B0E-B28C-316689CAB625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9773C8C-1149-4B0E-B28C-316689CAB625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9773C8C-1149-4B0E-B28C-316689CAB625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9773C8C-1149-4B0E-B28C-316689CAB625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9773C8C-1149-4B0E-B28C-316689CAB625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BC2EB6F-43F8-4CA4-ACF4-6EE60854D91B}
+	EndGlobalSection
+EndGlobal

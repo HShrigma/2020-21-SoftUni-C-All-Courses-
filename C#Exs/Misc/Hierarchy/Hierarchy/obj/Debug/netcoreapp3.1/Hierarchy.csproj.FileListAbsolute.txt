@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Hierarchy\Hierarchy\bin\Debug\netcoreapp3.1\Hierarchy.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Hierarchy\Hierarchy\bin\Debug\netcoreapp3.1\Hierarchy.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Hierarchy\Hierarchy\bin\Debug\netcoreapp3.1\Hierarchy.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Hierarchy\Hierarchy\bin\Debug\netcoreapp3.1\Hierarchy.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Hierarchy\Hierarchy\bin\Debug\netcoreapp3.1\Hierarchy.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Hierarchy\Hierarchy\bin\Debug\netcoreapp3.1\Hierarchy.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Hierarchy\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Hierarchy\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Hierarchy\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Hierarchy\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Hierarchy\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Hierarchy\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Hierarchy\Hierarchy\obj\Debug\netcoreapp3.1\Hierarchy.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 6 Folder Size\Streams,files,dirs 6 Folder Size\obj\Debug\netcoreapp3.1\Streams,files,dirs 6 Folder Size.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 6 Folder Size\Streams,files,dirs 6 Folder Size\obj\Debug\netcoreapp3.1\Streams,files,dirs 6 Folder Size.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 6 Folder Size\Streams,files,dirs 6 Folder Size\obj\Debug\netcoreapp3.1\Streams,files,dirs 6 Folder Size.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 6 Folder Size\Streams,files,dirs 6 Folder Size\bin\Debug\netcoreapp3.1\Streams,files,dirs 6 Folder Size.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 6 Folder Size\Streams,files,dirs 6 Folder Size\bin\Debug\netcoreapp3.1\Streams,files,dirs 6 Folder Size.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 6 Folder Size\Streams,files,dirs 6 Folder Size\bin\Debug\netcoreapp3.1\Streams,files,dirs 6 Folder Size.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 6 Folder Size\Streams,files,dirs 6 Folder Size\bin\Debug\netcoreapp3.1\Streams,files,dirs 6 Folder Size.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 6 Folder Size\Streams,files,dirs 6 Folder Size\bin\Debug\netcoreapp3.1\Streams,files,dirs 6 Folder Size.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 6 Folder Size\Streams,files,dirs 6 Folder Size\bin\Debug\netcoreapp3.1\Streams,files,dirs 6 Folder Size.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 6 Folder Size\Streams,files,dirs 6 Folder Size\obj\Debug\netcoreapp3.1\Streams,files,dirs 6 Folder Size.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 6 Folder Size\Streams,files,dirs 6 Folder Size\obj\Debug\netcoreapp3.1\Streams,files,dirs 6 Folder Size.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 6 Folder Size\Streams,files,dirs 6 Folder Size\obj\Debug\netcoreapp3.1\Streams,files,dirs 6 Folder Size.genruntimeconfig.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 6 Folder Size\Streams,files,dirs 6 Folder Size\obj\Debug\netcoreapp3.1\Streams,files,dirs 6 Folder Size.csprojAssemblyReference.cache

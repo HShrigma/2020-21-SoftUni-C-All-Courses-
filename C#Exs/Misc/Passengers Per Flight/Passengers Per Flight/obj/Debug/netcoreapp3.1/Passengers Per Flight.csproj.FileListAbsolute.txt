@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Passengers Per Flight\Passengers Per Flight\bin\Debug\netcoreapp3.1\Passengers Per Flight.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Passengers Per Flight\Passengers Per Flight\bin\Debug\netcoreapp3.1\Passengers Per Flight.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Passengers Per Flight\Passengers Per Flight\bin\Debug\netcoreapp3.1\Passengers Per Flight.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Passengers Per Flight\Passengers Per Flight\bin\Debug\netcoreapp3.1\Passengers Per Flight.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Passengers Per Flight\Passengers Per Flight\bin\Debug\netcoreapp3.1\Passengers Per Flight.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Passengers Per Flight\Passengers Per Flight\bin\Debug\netcoreapp3.1\Passengers Per Flight.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Passengers Per Flight\Passengers Per Flight\obj\Debug\netcoreapp3.1\Passengers Per Flight.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Passengers Per Flight\Passengers Per Flight\obj\Debug\netcoreapp3.1\Passengers Per Flight.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Passengers Per Flight\Passengers Per Flight\obj\Debug\netcoreapp3.1\Passengers Per Flight.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Passengers Per Flight\Passengers Per Flight\obj\Debug\netcoreapp3.1\Passengers Per Flight.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Passengers Per Flight\Passengers Per Flight\obj\Debug\netcoreapp3.1\Passengers Per Flight.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Passengers Per Flight\Passengers Per Flight\obj\Debug\netcoreapp3.1\Passengers Per Flight.genruntimeconfig.cache

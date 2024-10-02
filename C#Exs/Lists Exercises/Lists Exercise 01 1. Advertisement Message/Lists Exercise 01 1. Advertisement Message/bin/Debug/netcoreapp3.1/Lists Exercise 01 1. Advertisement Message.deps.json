@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lists Exercise 01 1. Advertisement Message/1.0.0": {
+        "runtime": {
+          "Lists Exercise 01 1. Advertisement Message.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lists Exercise 01 1. Advertisement Message/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

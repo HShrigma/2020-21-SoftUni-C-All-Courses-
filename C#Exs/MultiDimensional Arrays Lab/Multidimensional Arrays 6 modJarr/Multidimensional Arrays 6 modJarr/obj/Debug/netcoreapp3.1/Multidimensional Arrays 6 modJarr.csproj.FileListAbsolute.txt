@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Multidimensional Arrays 6 modJarr\Multidimensional Arrays 6 modJarr\bin\Debug\netcoreapp3.1\Multidimensional Arrays 6 modJarr.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Multidimensional Arrays 6 modJarr\Multidimensional Arrays 6 modJarr\bin\Debug\netcoreapp3.1\Multidimensional Arrays 6 modJarr.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Multidimensional Arrays 6 modJarr\Multidimensional Arrays 6 modJarr\bin\Debug\netcoreapp3.1\Multidimensional Arrays 6 modJarr.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Multidimensional Arrays 6 modJarr\Multidimensional Arrays 6 modJarr\bin\Debug\netcoreapp3.1\Multidimensional Arrays 6 modJarr.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Multidimensional Arrays 6 modJarr\Multidimensional Arrays 6 modJarr\bin\Debug\netcoreapp3.1\Multidimensional Arrays 6 modJarr.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Multidimensional Arrays 6 modJarr\Multidimensional Arrays 6 modJarr\bin\Debug\netcoreapp3.1\Multidimensional Arrays 6 modJarr.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Multidimensional Arrays 6 modJarr\Multidimensional Arrays 6 modJarr\obj\Debug\netcoreapp3.1\Multidimensional Arrays 6 modJarr.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Multidimensional Arrays 6 modJarr\Multidimensional Arrays 6 modJarr\obj\Debug\netcoreapp3.1\Multidimensional Arrays 6 modJarr.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Multidimensional Arrays 6 modJarr\Multidimensional Arrays 6 modJarr\obj\Debug\netcoreapp3.1\Multidimensional Arrays 6 modJarr.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Multidimensional Arrays 6 modJarr\Multidimensional Arrays 6 modJarr\obj\Debug\netcoreapp3.1\Multidimensional Arrays 6 modJarr.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Multidimensional Arrays 6 modJarr\Multidimensional Arrays 6 modJarr\obj\Debug\netcoreapp3.1\Multidimensional Arrays 6 modJarr.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Multidimensional Arrays 6 modJarr\Multidimensional Arrays 6 modJarr\obj\Debug\netcoreapp3.1\Multidimensional Arrays 6 modJarr.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\CSharp Exercises\Multidimensional Arrays 6 modJarr\Multidimensional Arrays 6 modJarr\obj\Debug\netcoreapp3.1\Multidimensional Arrays 6 modJarr.genruntimeconfig.cache

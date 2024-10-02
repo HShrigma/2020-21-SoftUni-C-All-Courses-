@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 5 slice file\Streams,files,dirs 5 slice file\bin\Debug\netcoreapp3.1\Streams,files,dirs 5 slice file.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 5 slice file\Streams,files,dirs 5 slice file\bin\Debug\netcoreapp3.1\Streams,files,dirs 5 slice file.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 5 slice file\Streams,files,dirs 5 slice file\bin\Debug\netcoreapp3.1\Streams,files,dirs 5 slice file.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 5 slice file\Streams,files,dirs 5 slice file\bin\Debug\netcoreapp3.1\Streams,files,dirs 5 slice file.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 5 slice file\Streams,files,dirs 5 slice file\bin\Debug\netcoreapp3.1\Streams,files,dirs 5 slice file.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 5 slice file\Streams,files,dirs 5 slice file\bin\Debug\netcoreapp3.1\Streams,files,dirs 5 slice file.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 5 slice file\Streams,files,dirs 5 slice file\obj\Debug\netcoreapp3.1\Streams,files,dirs 5 slice file.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 5 slice file\Streams,files,dirs 5 slice file\obj\Debug\netcoreapp3.1\Streams,files,dirs 5 slice file.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 5 slice file\Streams,files,dirs 5 slice file\obj\Debug\netcoreapp3.1\Streams,files,dirs 5 slice file.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 5 slice file\Streams,files,dirs 5 slice file\obj\Debug\netcoreapp3.1\Streams,files,dirs 5 slice file.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 5 slice file\Streams,files,dirs 5 slice file\obj\Debug\netcoreapp3.1\Streams,files,dirs 5 slice file.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 5 slice file\Streams,files,dirs 5 slice file\obj\Debug\netcoreapp3.1\Streams,files,dirs 5 slice file.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Streams,files,dirs 5 slice file\Streams,files,dirs 5 slice file\obj\Debug\netcoreapp3.1\Streams,files,dirs 5 slice file.genruntimeconfig.cache

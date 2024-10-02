@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 04 Text Filter\Text Processing Lab 04 Text Filter\bin\Debug\netcoreapp3.1\Text Processing Lab 04 Text Filter.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 04 Text Filter\Text Processing Lab 04 Text Filter\bin\Debug\netcoreapp3.1\Text Processing Lab 04 Text Filter.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 04 Text Filter\Text Processing Lab 04 Text Filter\bin\Debug\netcoreapp3.1\Text Processing Lab 04 Text Filter.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 04 Text Filter\Text Processing Lab 04 Text Filter\bin\Debug\netcoreapp3.1\Text Processing Lab 04 Text Filter.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 04 Text Filter\Text Processing Lab 04 Text Filter\bin\Debug\netcoreapp3.1\Text Processing Lab 04 Text Filter.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 04 Text Filter\Text Processing Lab 04 Text Filter\bin\Debug\netcoreapp3.1\Text Processing Lab 04 Text Filter.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 04 Text Filter\Text Processing Lab 04 Text Filter\obj\Debug\netcoreapp3.1\Text Processing Lab 04 Text Filter.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 04 Text Filter\Text Processing Lab 04 Text Filter\obj\Debug\netcoreapp3.1\Text Processing Lab 04 Text Filter.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 04 Text Filter\Text Processing Lab 04 Text Filter\obj\Debug\netcoreapp3.1\Text Processing Lab 04 Text Filter.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 04 Text Filter\Text Processing Lab 04 Text Filter\obj\Debug\netcoreapp3.1\Text Processing Lab 04 Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 04 Text Filter\Text Processing Lab 04 Text Filter\obj\Debug\netcoreapp3.1\Text Processing Lab 04 Text Filter.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 04 Text Filter\Text Processing Lab 04 Text Filter\obj\Debug\netcoreapp3.1\Text Processing Lab 04 Text Filter.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Lab 04 Text Filter\Text Processing Lab 04 Text Filter\obj\Debug\netcoreapp3.1\Text Processing Lab 04 Text Filter.genruntimeconfig.cache

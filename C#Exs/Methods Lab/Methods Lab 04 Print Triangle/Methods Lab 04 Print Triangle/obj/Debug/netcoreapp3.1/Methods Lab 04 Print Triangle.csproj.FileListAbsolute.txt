@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 04 Print Triangle\Methods Lab 04 Print Triangle\bin\Debug\netcoreapp3.1\Methods Lab 04 Print Triangle.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 04 Print Triangle\Methods Lab 04 Print Triangle\bin\Debug\netcoreapp3.1\Methods Lab 04 Print Triangle.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 04 Print Triangle\Methods Lab 04 Print Triangle\bin\Debug\netcoreapp3.1\Methods Lab 04 Print Triangle.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 04 Print Triangle\Methods Lab 04 Print Triangle\bin\Debug\netcoreapp3.1\Methods Lab 04 Print Triangle.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 04 Print Triangle\Methods Lab 04 Print Triangle\bin\Debug\netcoreapp3.1\Methods Lab 04 Print Triangle.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 04 Print Triangle\Methods Lab 04 Print Triangle\bin\Debug\netcoreapp3.1\Methods Lab 04 Print Triangle.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 04 Print Triangle\Methods Lab 04 Print Triangle\obj\Debug\netcoreapp3.1\Methods Lab 04 Print Triangle.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 04 Print Triangle\Methods Lab 04 Print Triangle\obj\Debug\netcoreapp3.1\Methods Lab 04 Print Triangle.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 04 Print Triangle\Methods Lab 04 Print Triangle\obj\Debug\netcoreapp3.1\Methods Lab 04 Print Triangle.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 04 Print Triangle\Methods Lab 04 Print Triangle\obj\Debug\netcoreapp3.1\Methods Lab 04 Print Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 04 Print Triangle\Methods Lab 04 Print Triangle\obj\Debug\netcoreapp3.1\Methods Lab 04 Print Triangle.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 04 Print Triangle\Methods Lab 04 Print Triangle\obj\Debug\netcoreapp3.1\Methods Lab 04 Print Triangle.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 04 Print Triangle\Methods Lab 04 Print Triangle\obj\Debug\netcoreapp3.1\Methods Lab 04 Print Triangle.genruntimeconfig.cache

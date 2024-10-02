@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Practical tests\Softuni Practical tests\bin\Debug\netcoreapp3.1\Softuni Practical tests.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Practical tests\Softuni Practical tests\bin\Debug\netcoreapp3.1\Softuni Practical tests.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Practical tests\Softuni Practical tests\bin\Debug\netcoreapp3.1\Softuni Practical tests.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Practical tests\Softuni Practical tests\bin\Debug\netcoreapp3.1\Softuni Practical tests.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Practical tests\Softuni Practical tests\bin\Debug\netcoreapp3.1\Softuni Practical tests.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Practical tests\Softuni Practical tests\bin\Debug\netcoreapp3.1\Softuni Practical tests.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Practical tests\Softuni Practical tests\obj\Debug\netcoreapp3.1\Softuni Practical tests.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Practical tests\Softuni Practical tests\obj\Debug\netcoreapp3.1\Softuni Practical tests.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Practical tests\Softuni Practical tests\obj\Debug\netcoreapp3.1\Softuni Practical tests.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Practical tests\Softuni Practical tests\obj\Debug\netcoreapp3.1\Softuni Practical tests.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Practical tests\Softuni Practical tests\obj\Debug\netcoreapp3.1\Softuni Practical tests.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Practical tests\Softuni Practical tests\obj\Debug\netcoreapp3.1\Softuni Practical tests.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Softuni Practical tests\Softuni Practical tests\obj\Debug\netcoreapp3.1\Softuni Practical tests.genruntimeconfig.cache

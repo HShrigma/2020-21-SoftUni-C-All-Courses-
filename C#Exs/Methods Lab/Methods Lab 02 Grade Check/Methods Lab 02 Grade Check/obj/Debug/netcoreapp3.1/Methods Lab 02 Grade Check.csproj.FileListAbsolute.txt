@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 02 Grade Check\Methods Lab 02 Grade Check\bin\Debug\netcoreapp3.1\Methods Lab 02 Grade Check.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 02 Grade Check\Methods Lab 02 Grade Check\bin\Debug\netcoreapp3.1\Methods Lab 02 Grade Check.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 02 Grade Check\Methods Lab 02 Grade Check\bin\Debug\netcoreapp3.1\Methods Lab 02 Grade Check.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 02 Grade Check\Methods Lab 02 Grade Check\bin\Debug\netcoreapp3.1\Methods Lab 02 Grade Check.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 02 Grade Check\Methods Lab 02 Grade Check\bin\Debug\netcoreapp3.1\Methods Lab 02 Grade Check.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 02 Grade Check\Methods Lab 02 Grade Check\bin\Debug\netcoreapp3.1\Methods Lab 02 Grade Check.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 02 Grade Check\Methods Lab 02 Grade Check\obj\Debug\netcoreapp3.1\Methods Lab 02 Grade Check.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 02 Grade Check\Methods Lab 02 Grade Check\obj\Debug\netcoreapp3.1\Methods Lab 02 Grade Check.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 02 Grade Check\Methods Lab 02 Grade Check\obj\Debug\netcoreapp3.1\Methods Lab 02 Grade Check.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 02 Grade Check\Methods Lab 02 Grade Check\obj\Debug\netcoreapp3.1\Methods Lab 02 Grade Check.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 02 Grade Check\Methods Lab 02 Grade Check\obj\Debug\netcoreapp3.1\Methods Lab 02 Grade Check.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods Lab 02 Grade Check\Methods Lab 02 Grade Check\obj\Debug\netcoreapp3.1\Methods Lab 02 Grade Check.genruntimeconfig.cache

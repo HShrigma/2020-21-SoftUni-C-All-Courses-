@@ -1,0 +1,3 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Football Souvenirs\Football Souvenirs\obj\Debug\netcoreapp3.1\Football Souvenirs.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Football Souvenirs\Football Souvenirs\obj\Debug\netcoreapp3.1\Football Souvenirs.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Football Souvenirs\Football Souvenirs\obj\Debug\netcoreapp3.1\Football Souvenirs.csproj.CoreCompileInputs.cache

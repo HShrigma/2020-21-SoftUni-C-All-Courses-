@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Combination\Combination\bin\Debug\netcoreapp3.1\Combination.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Combination\Combination\bin\Debug\netcoreapp3.1\Combination.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Combination\Combination\bin\Debug\netcoreapp3.1\Combination.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Combination\Combination\bin\Debug\netcoreapp3.1\Combination.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Combination\Combination\bin\Debug\netcoreapp3.1\Combination.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Combination\Combination\bin\Debug\netcoreapp3.1\Combination.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Combination\Combination\obj\Debug\netcoreapp3.1\Combination.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Combination\Combination\obj\Debug\netcoreapp3.1\Combination.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Combination\Combination\obj\Debug\netcoreapp3.1\Combination.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Combination\Combination\obj\Debug\netcoreapp3.1\Combination.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Combination\Combination\obj\Debug\netcoreapp3.1\Combination.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Combination\Combination\obj\Debug\netcoreapp3.1\Combination.genruntimeconfig.cache

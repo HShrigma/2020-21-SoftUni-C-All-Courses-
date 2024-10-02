@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Exercise 04 Caesar Cypher\Text Processing Exercise 04 Caesar Cypher\bin\Debug\netcoreapp3.1\Text Processing Exercise 04 Caesar Cypher.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Exercise 04 Caesar Cypher\Text Processing Exercise 04 Caesar Cypher\bin\Debug\netcoreapp3.1\Text Processing Exercise 04 Caesar Cypher.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Exercise 04 Caesar Cypher\Text Processing Exercise 04 Caesar Cypher\bin\Debug\netcoreapp3.1\Text Processing Exercise 04 Caesar Cypher.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Exercise 04 Caesar Cypher\Text Processing Exercise 04 Caesar Cypher\bin\Debug\netcoreapp3.1\Text Processing Exercise 04 Caesar Cypher.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Exercise 04 Caesar Cypher\Text Processing Exercise 04 Caesar Cypher\bin\Debug\netcoreapp3.1\Text Processing Exercise 04 Caesar Cypher.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Exercise 04 Caesar Cypher\Text Processing Exercise 04 Caesar Cypher\bin\Debug\netcoreapp3.1\Text Processing Exercise 04 Caesar Cypher.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Exercise 04 Caesar Cypher\Text Processing Exercise 04 Caesar Cypher\obj\Debug\netcoreapp3.1\Text Processing Exercise 04 Caesar Cypher.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Exercise 04 Caesar Cypher\Text Processing Exercise 04 Caesar Cypher\obj\Debug\netcoreapp3.1\Text Processing Exercise 04 Caesar Cypher.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Exercise 04 Caesar Cypher\Text Processing Exercise 04 Caesar Cypher\obj\Debug\netcoreapp3.1\Text Processing Exercise 04 Caesar Cypher.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Exercise 04 Caesar Cypher\Text Processing Exercise 04 Caesar Cypher\obj\Debug\netcoreapp3.1\Text Processing Exercise 04 Caesar Cypher.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Exercise 04 Caesar Cypher\Text Processing Exercise 04 Caesar Cypher\obj\Debug\netcoreapp3.1\Text Processing Exercise 04 Caesar Cypher.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Text Processing Exercise 04 Caesar Cypher\Text Processing Exercise 04 Caesar Cypher\obj\Debug\netcoreapp3.1\Text Processing Exercise 04 Caesar Cypher.genruntimeconfig.cache

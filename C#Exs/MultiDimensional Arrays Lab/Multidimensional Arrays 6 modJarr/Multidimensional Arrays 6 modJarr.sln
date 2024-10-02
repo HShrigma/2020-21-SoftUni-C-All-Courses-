@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multidimensional Arrays 6 modJarr", "Multidimensional Arrays 6 modJarr\Multidimensional Arrays 6 modJarr.csproj", "{17B91539-E9FB-4290-9B10-4303D8D5AC0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B91539-E9FB-4290-9B10-4303D8D5AC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B91539-E9FB-4290-9B10-4303D8D5AC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B91539-E9FB-4290-9B10-4303D8D5AC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B91539-E9FB-4290-9B10-4303D8D5AC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F66CE1DE-2155-4693-8288-FE1D90581495}
+	EndGlobalSection
+EndGlobal

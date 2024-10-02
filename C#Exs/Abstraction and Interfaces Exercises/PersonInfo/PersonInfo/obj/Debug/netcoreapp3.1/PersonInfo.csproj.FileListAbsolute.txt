@@ -1,0 +1,13 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Abstraction and Interfaces Exercises\PersonInfo\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Abstraction and Interfaces Exercises\PersonInfo\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Abstraction and Interfaces Exercises\PersonInfo\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Abstraction and Interfaces Exercises\PersonInfo\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Abstraction and Interfaces Exercises\PersonInfo\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Abstraction and Interfaces Exercises\PersonInfo\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Abstraction and Interfaces Exercises\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csprojAssemblyReference.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Abstraction and Interfaces Exercises\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Abstraction and Interfaces Exercises\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Abstraction and Interfaces Exercises\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Abstraction and Interfaces Exercises\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Abstraction and Interfaces Exercises\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\Abstraction and Interfaces Exercises\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache

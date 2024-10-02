@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods More Exercise 02 Center Point\Methods More Exercise 02 Center Point\bin\Debug\netcoreapp3.1\Methods More Exercise 02 Center Point.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods More Exercise 02 Center Point\Methods More Exercise 02 Center Point\bin\Debug\netcoreapp3.1\Methods More Exercise 02 Center Point.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods More Exercise 02 Center Point\Methods More Exercise 02 Center Point\bin\Debug\netcoreapp3.1\Methods More Exercise 02 Center Point.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods More Exercise 02 Center Point\Methods More Exercise 02 Center Point\bin\Debug\netcoreapp3.1\Methods More Exercise 02 Center Point.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods More Exercise 02 Center Point\Methods More Exercise 02 Center Point\bin\Debug\netcoreapp3.1\Methods More Exercise 02 Center Point.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods More Exercise 02 Center Point\Methods More Exercise 02 Center Point\bin\Debug\netcoreapp3.1\Methods More Exercise 02 Center Point.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods More Exercise 02 Center Point\Methods More Exercise 02 Center Point\obj\Debug\netcoreapp3.1\Methods More Exercise 02 Center Point.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods More Exercise 02 Center Point\Methods More Exercise 02 Center Point\obj\Debug\netcoreapp3.1\Methods More Exercise 02 Center Point.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods More Exercise 02 Center Point\Methods More Exercise 02 Center Point\obj\Debug\netcoreapp3.1\Methods More Exercise 02 Center Point.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods More Exercise 02 Center Point\Methods More Exercise 02 Center Point\obj\Debug\netcoreapp3.1\Methods More Exercise 02 Center Point.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods More Exercise 02 Center Point\Methods More Exercise 02 Center Point\obj\Debug\netcoreapp3.1\Methods More Exercise 02 Center Point.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\Methods More Exercise 02 Center Point\Methods More Exercise 02 Center Point\obj\Debug\netcoreapp3.1\Methods More Exercise 02 Center Point.genruntimeconfig.cache

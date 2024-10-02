@@ -1,0 +1,12 @@
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericTuple\GenericTuple\bin\Debug\netcoreapp3.1\GenericTuple.exe
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericTuple\GenericTuple\bin\Debug\netcoreapp3.1\GenericTuple.deps.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericTuple\GenericTuple\bin\Debug\netcoreapp3.1\GenericTuple.runtimeconfig.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericTuple\GenericTuple\bin\Debug\netcoreapp3.1\GenericTuple.runtimeconfig.dev.json
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericTuple\GenericTuple\bin\Debug\netcoreapp3.1\GenericTuple.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericTuple\GenericTuple\bin\Debug\netcoreapp3.1\GenericTuple.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericTuple\GenericTuple\obj\Debug\netcoreapp3.1\GenericTuple.AssemblyInfoInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericTuple\GenericTuple\obj\Debug\netcoreapp3.1\GenericTuple.AssemblyInfo.cs
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericTuple\GenericTuple\obj\Debug\netcoreapp3.1\GenericTuple.csproj.CoreCompileInputs.cache
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericTuple\GenericTuple\obj\Debug\netcoreapp3.1\GenericTuple.dll
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericTuple\GenericTuple\obj\Debug\netcoreapp3.1\GenericTuple.pdb
+C:\Users\Admiral Gen. Aladeen\source\repos\C#Exs\GenericsExercise\GenericTuple\GenericTuple\obj\Debug\netcoreapp3.1\GenericTuple.genruntimeconfig.cache
